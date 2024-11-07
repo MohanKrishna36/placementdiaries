@@ -1,0 +1,1001 @@
+Year of Placed,Company Name,Name,Email,Gender,Skills,Salary,Job Role,Projects
+2019,Amazon,Ira Sagar,ira64@gmail.com,Female,General Technical Knowledge,6LPA,System Analyst,Develop an IT Risk Assessment Plan
+2023,Microsoft,Ekaja Jani,ekaja19@gmail.com,Female,General Cybersecurity Knowledge,13LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2021,NVIDIA,Oscar Kalita,oscar39@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Build a Social Media Application
+2024,IBM,Alexander Bedi,alexander56@gmail.com,Female,"AWS, Azure, Docker",14LPA,Cloud Architect,Migrate Application to Cloud
+2021,Accenture,Mitesh Devan,mitesh28@gmail.com,Male,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Create a User Journey Map
+2019,Juniper Networks,Akshay Bhandari,akshay4@gmail.com,Male,General Technical Knowledge,5LPA,System Analyst,Analyze System Requirements
+2023,SAP,Abeer Chopra,abeer35@gmail.com,Female,"SQL, Data Analysis",11LPA,Database Administrator,Design and Implement a SQL Database
+2023,TCS,Widisha Yadav,widisha40@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2024,Oracle,Vedant Sabharwal,vedant12@gmail.com,Female,General Technical Knowledge,6LPA,System Analyst,Analyze System Requirements
+2024,Apple,Ethan Manda,ethan33@gmail.com,Female,"Data Analysis, SQL",11LPA,Business Analyst,Customer Behavior Analysis
+2020,Facebook,Yashvi Mittal,yashvi2@gmail.com,Male,Technical Troubleshooting,6LPA,Technical Support Specialist,Create Technical Documentation for Software
+2021,Microsoft,Warhi Majumdar,warhi92@gmail.com,Female,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2021,Apple,Aachal Mishra,aachal84@gmail.com,Male,Project Management Skills,11LPA,IT Project Manager,Risk Management in IT Projects
+2024,Cisco,Varsha Seshadri,varsha44@gmail.com,Female,"C++, Game Development Tools",15LPA,Game Developer,Create a 2D Platformer Game with C++
+2019,TCS,Brinda Khosla,brinda5@gmail.com,Female,"C++, Game Development Tools",12LPA,Game Developer,Build a Multiplayer Game Server
+2021,Salesforce,Abeer Deol,abeer72@gmail.com,Female,"SQL, Data Analysis",7LPA,Database Administrator,Design and Implement a SQL Database
+2022,Apple,Karan Raval,karan91@gmail.com,Male,General Technical Knowledge,8LPA,System Analyst,Develop an IT Risk Assessment Plan
+2021,Apple,Theodore Chowdhury,theodore33@gmail.com,Female,"Python, Machine Learning, TensorFlow",20LPA,Machine Learning Engineer,Recommendation System
+2021,Accenture,Laban Thaker,laban10@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",19LPA,Data Scientist,Fraud Detection System
+2021,Facebook,Radha Sibal,radha15@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Build a Social Media Application
+2021,HCL,Watika Vaidya,watika13@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,Build a RESTful API with Node.js
+2020,Salesforce,Gayathri Shan,gayathri71@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",9LPA,Backend Developer,Scalable Microservices with Spring Boot
+2024,Infosys,Kashvi Oza,kashvi12@gmail.com,Male,General Cybersecurity Knowledge,12LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2021,Facebook,Niharika Chaudhuri,niharika86@gmail.com,Male,"Java, Swift",10LPA,Mobile App Developer,Build an E-commerce Mobile App
+2022,Cisco,Leela Brar,leela99@gmail.com,Female,General Technical Knowledge,5LPA,System Analyst,Develop an IT Risk Assessment Plan
+2023,Google,Vritti Pillay,vritti53@gmail.com,Male,Technical Troubleshooting,4LPA,Technical Support Specialist,Create Technical Documentation for Software
+2024,Cisco,Chaitanya Jain,chaitanya87@gmail.com,Female,"Linux, Networking Protocols",9LPA,Network Engineer,Implement Network Load Balancing
+2020,Accenture,Rachita Mitter,rachita7@gmail.com,Female,"SQL, Data Analysis",7LPA,Database Administrator,Design and Implement a SQL Database
+2021,SAP,Jack Lad,jack58@gmail.com,Female,"C++, Game Development Tools",9LPA,Game Developer,Build a Multiplayer Game Server
+2023,NVIDIA,Anya Kade,anya82@gmail.com,Female,"Data Analysis, SQL",8LPA,Business Analyst,Business Process Modeling
+2024,IBM,Bhavya Agrawal,bhavya45@gmail.com,Male,"Java, Swift",14LPA,Mobile App Developer,Develop a Weather App using Java
+2023,Google,Urvashi Deshmukh,urvashi81@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Customer Segmentation using K-Means
+2021,Amazon,Krishna Kara,krishna96@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2019,Apple,Harish Nath,harish67@gmail.com,Female,"Linux, Networking Protocols",8LPA,Network Engineer,Implement Network Load Balancing
+2021,Apple,Yachana Badami,yachana25@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2021,Oracle,Odika Raghavan,odika62@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Build Single Page Application with Angular
+2020,Infosys,Aarna Brahmbhatt,aarna45@gmail.com,Female,"SQL, Data Analysis",12LPA,Database Administrator,Optimize Database Performance
+2019,IBM,Luke Kannan,luke93@gmail.com,Male,"C++, Game Development Tools",14LPA,Game Developer,Create a 2D Platformer Game with C++
+2019,NVIDIA,Kritika Acharya,kritika77@gmail.com,Male,"Data Analysis, SQL",6LPA,Business Analyst,Market Trend Analysis using SQL
+2021,Accenture,Sarthak Kade,sarthak3@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Build Single Page Application with Angular
+2022,Accenture,Karan Warrior,karan45@gmail.com,Male,Project Management Skills,18LPA,IT Project Manager,Project Planning for Software Development
+2024,Adobe,Amol Sengupta,amol39@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",19LPA,Data Scientist,Customer Segmentation using K-Means
+2023,Microsoft,Anita Luthra,anita58@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Customer Segmentation using K-Means
+2019,Apple,Darika Nagi,darika22@gmail.com,Female,General Cybersecurity Knowledge,11LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2022,Wipro,Sara Mody,sara78@gmail.com,Male,"AWS, Azure, Docker",11LPA,Cloud Architect,Migrate Application to Cloud
+2024,Infosys,Lavanya Balay,lavanya31@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Customer Segmentation using K-Means
+2023,SAP,Avni Tata,avni34@gmail.com,Male,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Design a Mobile App Interface
+2024,Apple,Wyatt Karan,wyatt42@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",15LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2024,HCL,Rohan Gola,rohan19@gmail.com,Female,"Java, Swift",7LPA,Mobile App Developer,Build an E-commerce Mobile App
+2022,Oracle,Ridhi Gill,ridhi26@gmail.com,Male,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2024,Capgemini,Abha Arora,abha52@gmail.com,Male,"Python, Machine Learning, TensorFlow",20LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2021,Infosys,Advaith Bava,advaith20@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Automate Deployment using Jenkins
+2020,SAP,Faraj Varma,faraj62@gmail.com,Female,Project Management Skills,16LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2020,Capgemini,Ekaraj Patel,ekaraj88@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2022,IBM,Gagan Kade,gagan62@gmail.com,Female,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Design a Mobile App Interface
+2024,Adobe,Krishna Pau,krishna5@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Build an E-commerce Mobile App
+2020,Apple,William Prabhu,william36@gmail.com,Female,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Image Classification with CNN
+2022,HCL,Ayaan Kakar,ayaan57@gmail.com,Female,"C++, Game Development Tools",8LPA,Game Developer,Create a 2D Platformer Game with C++
+2019,Palo Alto Networks,Mohini Maharaj,mohini91@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",10LPA,Full Stack Developer,Build a Social Media Application
+2020,NVIDIA,Deepa Butala,deepa39@gmail.com,Female,"Data Analysis, SQL",7LPA,Business Analyst,Market Trend Analysis using SQL
+2022,Cisco,Ranveer Murthy,ranveer51@gmail.com,Female,"C++, Game Development Tools",11LPA,Game Developer,Build a Multiplayer Game Server
+2024,TCS,Pushti Dubey,pushti6@gmail.com,Male,Technical Troubleshooting,7LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2023,Palo Alto Networks,Jeet Yohannan,jeet73@gmail.com,Female,General Technical Knowledge,6LPA,System Analyst,Develop an IT Risk Assessment Plan
+2020,Microsoft,Eiravati Dhar,eiravati61@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",14LPA,Data Scientist,Fraud Detection System
+2019,Palo Alto Networks,Qasim Dhar,qasim82@gmail.com,Female,"AWS, Azure, Docker",20LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2023,Wipro,Vamakshi Nagy,vamakshi47@gmail.com,Female,Project Management Skills,17LPA,IT Project Manager,Project Planning for Software Development
+2024,SAP,Gaurav Jain,gaurav33@gmail.com,Female,Project Management Skills,17LPA,IT Project Manager,Risk Management in IT Projects
+2019,Adobe,Manthan Sant,manthan52@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,API Development with Django
+2019,Microsoft,Wahab Sheth,wahab54@gmail.com,Female,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2023,Accenture,Vrishti Dass,vrishti46@gmail.com,Female,"Linux, Networking Protocols",11LPA,Network Engineer,Configure Firewalls for Security
+2020,Wipro,Oscar Khurana,oscar58@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,API Development with Django
+2020,TCS,Arjun Thakur,arjun54@gmail.com,Male,"Linux, Networking Protocols",12LPA,Network Engineer,Setup a Corporate Network
+2023,Amazon,Andrew Saraf,andrew7@gmail.com,Male,"Data Analysis, SQL",7LPA,Business Analyst,Market Trend Analysis using SQL
+2023,Google,Ikshita Parmer,ikshita69@gmail.com,Male,General Technical Knowledge,10LPA,System Analyst,Design IT Solutions for Small Businesses
+2023,Palo Alto Networks,Aishani Ramesh,aishani63@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2020,Microsoft,Sathvik Sharma,sathvik41@gmail.com,Female,Project Management Skills,16LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2020,Apple,Ayushman Ahluwalia,ayushman85@gmail.com,Female,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2022,Accenture,Vedant Nazareth,vedant51@gmail.com,Male,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2024,IBM,Joshua Rege,joshua63@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Build a Social Media Application
+2023,Salesforce,Gavin Sekhon,gavin37@gmail.com,Male,"Python, Machine Learning, TensorFlow",19LPA,Machine Learning Engineer,Recommendation System
+2024,Juniper Networks,Rayaan Goel,rayaan93@gmail.com,Male,"Data Analysis, SQL",10LPA,Business Analyst,Market Trend Analysis using SQL
+2020,SAP,Upma Dhaliwal,upma86@gmail.com,Male,General Cybersecurity Knowledge,14LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2024,Cisco,Aarna Pingle,aarna56@gmail.com,Female,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2022,Capgemini,Luke Borra,luke28@gmail.com,Female,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2020,Juniper Networks,Andrew Pandey,andrew62@gmail.com,Female,General Cybersecurity Knowledge,14LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2019,Amazon,Theodore Bal,theodore42@gmail.com,Female,"SQL, Data Analysis",8LPA,Database Administrator,Create Data Backup and Recovery Plans
+2024,Wipro,Sneha Ghosh,sneha59@gmail.com,Female,"SQL, Data Analysis",10LPA,Database Administrator,Optimize Database Performance
+2024,TCS,Waida Sangha,waida34@gmail.com,Male,Project Management Skills,13LPA,IT Project Manager,Project Planning for Software Development
+2023,Oracle,Laksh Borah,laksh60@gmail.com,Female,"Data Analysis, SQL",7LPA,Business Analyst,Business Process Modeling
+2024,Palo Alto Networks,Prisha Menon,prisha94@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2021,Amazon,Janaki Kalita,janaki58@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",10LPA,Full Stack Developer,Develop an E-commerce Website
+2019,Accenture,Indali Bahl,indali93@gmail.com,Male,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2024,Salesforce,Harita Apte,harita77@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Build a Social Media Application
+2024,Infosys,Chaman Din,chaman72@gmail.com,Female,"SQL, Data Analysis",8LPA,Database Administrator,Design and Implement a SQL Database
+2019,Salesforce,Dayamai Pingle,dayamai79@gmail.com,Male,"Python, Machine Learning, TensorFlow",15LPA,Machine Learning Engineer,Image Classification with CNN
+2023,Juniper Networks,Ryan Oza,ryan63@gmail.com,Male,"Linux, Networking Protocols",11LPA,Network Engineer,Implement Network Load Balancing
+2022,Juniper Networks,Samesh Mallick,samesh90@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2020,Facebook,Wriddhish Vyas,wriddhish34@gmail.com,Male,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Design a Mobile App Interface
+2024,Oracle,Ira Grewal,ira74@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2024,Capgemini,Warjas Pandey,warjas30@gmail.com,Male,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2024,Microsoft,Gautam Batta,gautam86@gmail.com,Female,"AWS, Azure, Docker",15LPA,Cloud Architect,Migrate Application to Cloud
+2023,SAP,Deepa Sastry,deepa79@gmail.com,Male,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2022,Juniper Networks,Vansha Rana,vansha88@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2024,Wipro,Ekavir Bali,ekavir6@gmail.com,Male,"Linux, Networking Protocols",12LPA,Network Engineer,Implement Network Load Balancing
+2020,Wipro,Diya Radhakrishnan,diya37@gmail.com,Female,General Technical Knowledge,9LPA,System Analyst,Develop an IT Risk Assessment Plan
+2023,Accenture,Amruta Narayan,amruta82@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Develop a Weather App using Java
+2019,Apple,Yasti Dass,yasti99@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",18LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2020,HCL,Urvashi Bhatt,urvashi71@gmail.com,Female,"SQL, Data Analysis",8LPA,Database Administrator,Create Data Backup and Recovery Plans
+2021,Google,Upadhriti Buch,upadhriti75@gmail.com,Female,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2021,Infosys,Waida Shere,waida85@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,Scalable Microservices with Spring Boot
+2021,Salesforce,Aarini Hari,aarini85@gmail.com,Male,General Technical Knowledge,5LPA,System Analyst,Develop an IT Risk Assessment Plan
+2024,Amazon,Mugdha Dhaliwal,mugdha45@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,API Development with Django
+2021,Palo Alto Networks,Darsh Issac,darsh26@gmail.com,Female,"Linux, Networking Protocols",8LPA,Network Engineer,Implement Network Load Balancing
+2020,Facebook,Vyanjana Murthy,vyanjana2@gmail.com,Male,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Design a Mobile App Interface
+2019,SAP,Yagnesh Ganesan,yagnesh22@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Automate Deployment using Jenkins
+2020,HCL,Dakshesh Gera,dakshesh61@gmail.com,Male,"Data Analysis, SQL",6LPA,Business Analyst,Business Process Modeling
+2021,NVIDIA,Manan Biswas,manan42@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",19LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2019,NVIDIA,Tarak Bajwa,tarak58@gmail.com,Male,"C++, Game Development Tools",11LPA,Game Developer,Develop a VR Game Prototype
+2023,Google,Upma Mane,upma55@gmail.com,Female,General Technical Knowledge,7LPA,System Analyst,Analyze System Requirements
+2019,Accenture,Bakhshi Kala,bakhshi20@gmail.com,Female,Technical Troubleshooting,8LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2023,SAP,Rajata Bal,rajata8@gmail.com,Male,General Technical Knowledge,9LPA,System Analyst,Analyze System Requirements
+2021,Facebook,Avni Sami,avni87@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Fraud Detection System
+2022,IBM,Lakshmi Uppal,lakshmi3@gmail.com,Female,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2021,IBM,Jhalak Hayer,jhalak30@gmail.com,Male,"AWS, Azure, Docker",13LPA,Cloud Architect,Migrate Application to Cloud
+2020,Accenture,Chandran Shah,chandran45@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,Scalable Microservices with Spring Boot
+2019,NVIDIA,Henry Comar,henry71@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Automate Deployment using Jenkins
+2019,Capgemini,Fiyaz Goel,fiyaz10@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Build a Social Media Application
+2021,Oracle,Sara Bajaj,sara85@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2020,Juniper Networks,Omya Shenoy,omya39@gmail.com,Male,"Python, Machine Learning, TensorFlow",14LPA,Machine Learning Engineer,Recommendation System
+2019,Capgemini,Rudra Sami,rudra10@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Scalable Microservices with Spring Boot
+2019,HCL,Hemang Purohit,hemang78@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Develop an E-commerce Website
+2019,SAP,Abeer Minhas,abeer70@gmail.com,Male,"Java, Swift",10LPA,Mobile App Developer,Build an E-commerce Mobile App
+2024,Palo Alto Networks,Yashvi Wali,yashvi61@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",8LPA,Backend Developer,Build a RESTful API with Node.js
+2022,Capgemini,Adya Basu,adya36@gmail.com,Male,"SQL, Data Analysis",12LPA,Database Administrator,Create Data Backup and Recovery Plans
+2024,HCL,Eshana Natarajan,eshana77@gmail.com,Male,"SQL, Data Analysis",12LPA,Database Administrator,Design and Implement a SQL Database
+2019,TCS,Ikshita Acharya,ikshita36@gmail.com,Female,"SQL, Data Analysis",8LPA,Database Administrator,Create Data Backup and Recovery Plans
+2022,Juniper Networks,Upkaar Vala,upkaar42@gmail.com,Male,"Java, Swift",12LPA,Mobile App Developer,Create a Mobile Game in Swift
+2024,NVIDIA,Nidhi Kuruvilla,nidhi75@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",19LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2020,Google,Hemani Shukla,hemani53@gmail.com,Male,"C++, Game Development Tools",15LPA,Game Developer,Develop a VR Game Prototype
+2024,Wipro,Fitan Bhatt,fitan57@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2020,Facebook,Anay Ahuja,anay55@gmail.com,Male,"Python, Machine Learning, TensorFlow",20LPA,Machine Learning Engineer,Recommendation System
+2019,SAP,Samaksh Chandran,samaksh71@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2022,Apple,Ansh Kannan,ansh6@gmail.com,Male,Technical Troubleshooting,5LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2022,Apple,Aarini Tandon,aarini59@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Build Single Page Application with Angular
+2023,NVIDIA,Shravya Purohit,shravya67@gmail.com,Female,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Create a User Journey Map
+2023,Cisco,Noah Sundaram,noah69@gmail.com,Female,"Linux, Networking Protocols",8LPA,Network Engineer,Setup a Corporate Network
+2024,Oracle,Manya Cheema,manya56@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Fraud Detection System
+2024,Accenture,Diya Mani,diya33@gmail.com,Male,"C++, Game Development Tools",14LPA,Game Developer,Develop a VR Game Prototype
+2019,SAP,Alexander Venkataraman,alexander42@gmail.com,Female,Project Management Skills,15LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2020,Accenture,Balveer Padmanabhan,balveer32@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2021,Amazon,Lipika Anand,lipika3@gmail.com,Male,General Cybersecurity Knowledge,11LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2022,Amazon,Mohammed Kadakia,mohammed3@gmail.com,Male,Technical Troubleshooting,7LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2019,Apple,Yash Mammen,yash17@gmail.com,Male,"C++, Game Development Tools",12LPA,Game Developer,Build a Multiplayer Game Server
+2019,IBM,Omkaar Mane,omkaar25@gmail.com,Female,"Data Analysis, SQL",7LPA,Business Analyst,Customer Behavior Analysis
+2022,Juniper Networks,Mitesh Gola,mitesh17@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,Build a RESTful API with Node.js
+2024,HCL,Tara Pandya,tara65@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2021,Capgemini,Lavanya Viswanathan,lavanya70@gmail.com,Female,Technical Troubleshooting,4LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2019,Juniper Networks,Aayush Goda,aayush94@gmail.com,Male,"Java, Swift",13LPA,Mobile App Developer,Create a Mobile Game in Swift
+2024,SAP,Gagan Pant,gagan35@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Develop an E-commerce Website
+2024,Accenture,Wakeeta Rajan,wakeeta87@gmail.com,Male,"Linux, Networking Protocols",12LPA,Network Engineer,Setup a Corporate Network
+2022,Accenture,Zaid Ganesan,zaid31@gmail.com,Female,General Cybersecurity Knowledge,13LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2024,IBM,Aishani Kapur,aishani83@gmail.com,Male,"SQL, Data Analysis",11LPA,Database Administrator,Design and Implement a SQL Database
+2019,Google,Edhitha Arya,edhitha16@gmail.com,Male,"AWS, Azure, Docker",18LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2019,Cisco,Zaitra Seth,zaitra26@gmail.com,Male,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2019,Microsoft,Zaitra Butala,zaitra52@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Build a Social Media Application
+2024,Facebook,Arin Subramanian,arin55@gmail.com,Male,"Linux, Networking Protocols",12LPA,Network Engineer,Implement Network Load Balancing
+2023,Microsoft,Fitan Ganguly,fitan57@gmail.com,Male,"AWS, Azure, Docker",20LPA,Cloud Architect,Migrate Application to Cloud
+2023,Juniper Networks,Gautami Golla,gautami57@gmail.com,Female,General Cybersecurity Knowledge,16LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2020,Salesforce,Yatan Choudhry,yatan88@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,Build a RESTful API with Node.js
+2023,Apple,Ekantika Lad,ekantika12@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Develop an E-commerce Website
+2023,Amazon,Ayushman Cheema,ayushman86@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2023,SAP,Lavanya Mutti,lavanya58@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2023,SAP,Anirudh Tiwari,anirudh81@gmail.com,Male,Project Management Skills,15LPA,IT Project Manager,Project Planning for Software Development
+2023,HCL,Yashodhara Vohra,yashodhara18@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Automate Deployment using Jenkins
+2024,Apple,Harsh Tara,harsh25@gmail.com,Male,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2022,IBM,Vedant Devan,vedant78@gmail.com,Male,General Technical Knowledge,10LPA,System Analyst,Design IT Solutions for Small Businesses
+2020,NVIDIA,Christopher Gera,christopher44@gmail.com,Female,"SQL, Data Analysis",11LPA,Database Administrator,Optimize Database Performance
+2024,SAP,Tarak Handa,tarak4@gmail.com,Female,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2021,Microsoft,Faras Borah,faras49@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",9LPA,Backend Developer,Build a RESTful API with Node.js
+2022,TCS,Chandresh Kohli,chandresh57@gmail.com,Female,"AWS, Azure, Docker",10LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2023,Oracle,Ekantika Pandya,ekantika56@gmail.com,Male,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2020,Infosys,Charita Subramanian,charita65@gmail.com,Male,"Python, Machine Learning, TensorFlow",15LPA,Machine Learning Engineer,Recommendation System
+2024,TCS,Rudra Viswanathan,rudra61@gmail.com,Female,"AWS, Azure, Docker",17LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2023,NVIDIA,Maya Bhatti,maya40@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",12LPA,Backend Developer,Build a RESTful API with Node.js
+2020,HCL,Nitara Samra,nitara34@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Create Responsive Web Design with React
+2020,Amazon,Vanya Pillai,vanya81@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",8LPA,Backend Developer,API Development with Django
+2023,Oracle,Ranbir Kakar,ranbir23@gmail.com,Female,"Linux, Networking Protocols",11LPA,Network Engineer,Implement Network Load Balancing
+2019,Apple,Janya Bhakta,janya87@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2022,Infosys,Jairaj Sha,jairaj15@gmail.com,Female,"C++, Game Development Tools",8LPA,Game Developer,Develop a VR Game Prototype
+2019,Google,Eesha Jaggi,eesha60@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",19LPA,Data Scientist,Customer Segmentation using K-Means
+2023,Capgemini,Ayaan Nazareth,ayaan37@gmail.com,Female,"AWS, Azure, Docker",11LPA,Cloud Architect,Migrate Application to Cloud
+2020,HCL,Manbir Anand,manbir46@gmail.com,Male,"Linux, Networking Protocols",11LPA,Network Engineer,Setup a Corporate Network
+2023,Adobe,Faraj Babu,faraj14@gmail.com,Female,"C++, Game Development Tools",12LPA,Game Developer,Develop a VR Game Prototype
+2024,Accenture,Samuel Basak,samuel10@gmail.com,Male,"Java, Swift",14LPA,Mobile App Developer,Develop a Weather App using Java
+2021,SAP,Raksha Roy,raksha42@gmail.com,Male,"Java, Swift",9LPA,Mobile App Developer,Create a Mobile Game in Swift
+2024,Oracle,Amruta Pathak,amruta10@gmail.com,Male,"Data Analysis, SQL",8LPA,Business Analyst,Business Process Modeling
+2020,HCL,Bimala Pandey,bimala29@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,Build a RESTful API with Node.js
+2022,Adobe,Ayush Manne,ayush24@gmail.com,Female,"AWS, Azure, Docker",16LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2023,Cisco,Ekapad Sharaf,ekapad90@gmail.com,Male,"Data Analysis, SQL",10LPA,Business Analyst,Business Process Modeling
+2022,Apple,Jagrati Suresh,jagrati24@gmail.com,Female,"Java, Swift",9LPA,Mobile App Developer,Create a Mobile Game in Swift
+2024,NVIDIA,Qarin Nigam,qarin64@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,API Development with Django
+2023,Facebook,Anjali Sathe,anjali13@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",13LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2023,Facebook,Harish Dewan,harish73@gmail.com,Female,General Technical Knowledge,5LPA,System Analyst,Design IT Solutions for Small Businesses
+2024,Salesforce,Karan Soman,karan8@gmail.com,Male,"Data Analysis, SQL",12LPA,Business Analyst,Business Process Modeling
+2020,Palo Alto Networks,Azad Karan,azad89@gmail.com,Female,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2020,Apple,Lekha Ratti,lekha13@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Build a Social Media Application
+2024,Palo Alto Networks,Divya Wagle,divya71@gmail.com,Male,Testing Tools and Methodologies,6LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2019,Accenture,Gabriel Venkatesh,gabriel46@gmail.com,Male,"Java, Swift",9LPA,Mobile App Developer,Develop a Weather App using Java
+2024,Infosys,Rayaan Kuruvilla,rayaan39@gmail.com,Female,"Python, Machine Learning, TensorFlow",17LPA,Machine Learning Engineer,Image Classification with CNN
+2021,Accenture,Ekalinga Uppal,ekalinga23@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Scalable Microservices with Spring Boot
+2019,Amazon,Karan Sha,karan90@gmail.com,Male,"Java, Swift",12LPA,Mobile App Developer,Create a Mobile Game in Swift
+2024,Juniper Networks,Pooja Jayaraman,pooja83@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",20LPA,Data Scientist,Customer Segmentation using K-Means
+2020,Oracle,Wazir Mahajan,wazir28@gmail.com,Male,"SQL, Data Analysis",12LPA,Database Administrator,Optimize Database Performance
+2019,Facebook,Yashoda Vyas,yashoda18@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2020,Accenture,Ekaja Aggarwal,ekaja30@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2019,Google,Kevin Bhatnagar,kevin77@gmail.com,Female,"C++, Game Development Tools",7LPA,Game Developer,Build a Multiplayer Game Server
+2024,Cisco,Baljiwan Garg,baljiwan46@gmail.com,Male,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2022,Oracle,Advik Borde,advik27@gmail.com,Male,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Create a User Journey Map
+2020,IBM,Bina Brar,bina39@gmail.com,Male,Technical Troubleshooting,4LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2020,Juniper Networks,Nakul Karpe,nakul92@gmail.com,Female,General Technical Knowledge,7LPA,System Analyst,Design IT Solutions for Small Businesses
+2019,Capgemini,Yashodhara Sachar,yashodhara1@gmail.com,Female,"Data Analysis, SQL",10LPA,Business Analyst,Market Trend Analysis using SQL
+2024,Cisco,Aadi Ratta,aadi68@gmail.com,Male,"SQL, Data Analysis",10LPA,Database Administrator,Design and Implement a SQL Database
+2020,Juniper Networks,Ekbal Maharaj,ekbal28@gmail.com,Male,"AWS, Azure, Docker",13LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2021,HCL,Anamika Garde,anamika44@gmail.com,Male,"Data Analysis, SQL",11LPA,Business Analyst,Business Process Modeling
+2024,Palo Alto Networks,Vrinda Suri,vrinda50@gmail.com,Female,"SQL, Data Analysis",7LPA,Database Administrator,Create Data Backup and Recovery Plans
+2019,IBM,Sarthak Chanda,sarthak84@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2020,IBM,Azaan Verma,azaan17@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",14LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2019,SAP,Champak Sandal,champak43@gmail.com,Female,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2021,Oracle,Rajata Mane,rajata60@gmail.com,Female,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2019,HCL,Samarth Agrawal,samarth54@gmail.com,Male,"AWS, Azure, Docker",10LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2021,Apple,Varsha Suresh,varsha87@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",12LPA,Backend Developer,Build a RESTful API with Node.js
+2021,Amazon,Amaira Murthy,amaira42@gmail.com,Female,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2020,Amazon,Idika Bhasin,idika54@gmail.com,Male,"AWS, Azure, Docker",12LPA,Cloud Architect,Migrate Application to Cloud
+2022,Wipro,Jeremiah Tara,jeremiah62@gmail.com,Female,"AWS, Azure, Docker",12LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2022,TCS,Jalsa Srinivas,jalsa27@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",10LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2020,Juniper Networks,Farhan Rattan,farhan97@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2021,Accenture,Vasudha Samra,vasudha25@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,Scalable Microservices with Spring Boot
+2020,Google,Gauri Wason,gauri11@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Create a User Journey Map
+2019,TCS,Jai Hayer,jai30@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",8LPA,Backend Developer,Build a RESTful API with Node.js
+2019,Amazon,Dalbir Pall,dalbir88@gmail.com,Male,"Data Analysis, SQL",11LPA,Business Analyst,Business Process Modeling
+2021,SAP,Maya Suresh,maya59@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",8LPA,Backend Developer,API Development with Django
+2024,Google,Ranbir Chada,ranbir41@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",15LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2023,Google,Charita Pant,charita50@gmail.com,Female,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2019,Capgemini,Varenya Brar,varenya66@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",13LPA,Data Scientist,Fraud Detection System
+2023,Oracle,Sneha Salvi,sneha88@gmail.com,Female,"SQL, Data Analysis",7LPA,Database Administrator,Design and Implement a SQL Database
+2019,Infosys,Hemani Nagar,hemani25@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",11LPA,Backend Developer,Scalable Microservices with Spring Boot
+2022,Microsoft,Anamika Sibal,anamika11@gmail.com,Female,Project Management Skills,10LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2022,Cisco,Prisha Badal,prisha77@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",13LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2019,SAP,Anjali Natt,anjali26@gmail.com,Male,General Technical Knowledge,11LPA,System Analyst,Design IT Solutions for Small Businesses
+2021,Wipro,Geetika Sahota,geetika60@gmail.com,Male,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Create a User Journey Map
+2022,Accenture,Meera Luthra,meera14@gmail.com,Female,"Java, Swift",7LPA,Mobile App Developer,Build an E-commerce Mobile App
+2024,Accenture,Zaid Parsa,zaid83@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",11LPA,Backend Developer,API Development with Django
+2020,SAP,Aarna Pai,aarna30@gmail.com,Female,Testing Tools and Methodologies,7LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2023,Capgemini,Sai Pandey,sai13@gmail.com,Male,"SQL, Data Analysis",9LPA,Database Administrator,Create Data Backup and Recovery Plans
+2021,Salesforce,Alka Tata,alka91@gmail.com,Male,"AWS, Azure, Docker",10LPA,Cloud Architect,Migrate Application to Cloud
+2024,Microsoft,Dayamai Rattan,dayamai32@gmail.com,Female,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2023,Apple,Kamya Kanda,kamya42@gmail.com,Male,Project Management Skills,17LPA,IT Project Manager,Project Planning for Software Development
+2022,Infosys,Ekavir Kumer,ekavir96@gmail.com,Female,Technical Troubleshooting,5LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2024,Apple,Divya Saha,divya80@gmail.com,Male,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2023,Palo Alto Networks,Radha Shankar,radha84@gmail.com,Male,Technical Troubleshooting,6LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2024,HCL,Yachana Muni,yachana3@gmail.com,Female,Technical Troubleshooting,4LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2020,Juniper Networks,Samuel Edwin,samuel98@gmail.com,Female,General Technical Knowledge,5LPA,System Analyst,Analyze System Requirements
+2022,Palo Alto Networks,Hemang Tank,hemang56@gmail.com,Male,Technical Troubleshooting,5LPA,Technical Support Specialist,Create Technical Documentation for Software
+2019,Capgemini,Adweta Ratta,adweta90@gmail.com,Female,"SQL, Data Analysis",11LPA,Database Administrator,Create Data Backup and Recovery Plans
+2020,Accenture,Ayush Choudhury,ayush19@gmail.com,Female,General Technical Knowledge,6LPA,System Analyst,Analyze System Requirements
+2023,TCS,Anusha Venkataraman,anusha74@gmail.com,Female,"Java, Swift",8LPA,Mobile App Developer,Build an E-commerce Mobile App
+2022,Oracle,Inaya Wable,inaya86@gmail.com,Female,General Technical Knowledge,9LPA,System Analyst,Develop an IT Risk Assessment Plan
+2022,TCS,Harish Ram,harish15@gmail.com,Female,"Linux, Networking Protocols",7LPA,Network Engineer,Setup a Corporate Network
+2022,Accenture,Deepa Gala,deepa90@gmail.com,Female,Project Management Skills,10LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2019,HCL,Faris Nagar,faris61@gmail.com,Male,"C++, Game Development Tools",9LPA,Game Developer,Build a Multiplayer Game Server
+2020,Google,Jalsa Varkey,jalsa85@gmail.com,Male,General Cybersecurity Knowledge,16LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2021,Palo Alto Networks,Sudiksha Bobal,sudiksha67@gmail.com,Female,"AWS, Azure, Docker",18LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2022,Microsoft,Karan Sibal,karan65@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",11LPA,Backend Developer,Build a RESTful API with Node.js
+2022,SAP,Vedika Khosla,vedika41@gmail.com,Female,Testing Tools and Methodologies,11LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2019,Cisco,Rushil Bhandari,rushil31@gmail.com,Female,Technical Troubleshooting,6LPA,Technical Support Specialist,Create Technical Documentation for Software
+2023,Cisco,Nicholas Kapadia,nicholas99@gmail.com,Female,"SQL, Data Analysis",10LPA,Database Administrator,Optimize Database Performance
+2024,TCS,Ayushman Mahajan,ayushman49@gmail.com,Female,"AWS, Azure, Docker",15LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2021,Palo Alto Networks,Umang Sagar,umang39@gmail.com,Male,Testing Tools and Methodologies,6LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2020,IBM,Oviya Bhatia,oviya54@gmail.com,Male,Testing Tools and Methodologies,11LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2023,Google,Hiral Edwin,hiral56@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Build a Social Media Application
+2021,Facebook,Timothy Boase,timothy22@gmail.com,Female,"C++, Game Development Tools",13LPA,Game Developer,Develop a VR Game Prototype
+2023,Facebook,Advika Goyal,advika58@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",11LPA,Backend Developer,API Development with Django
+2022,Wipro,Sudiksha Singhal,sudiksha80@gmail.com,Male,Testing Tools and Methodologies,7LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2020,Palo Alto Networks,Gayathri Kara,gayathri57@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Build an E-commerce Mobile App
+2024,Palo Alto Networks,Qabil Krish,qabil87@gmail.com,Male,General Technical Knowledge,5LPA,System Analyst,Design IT Solutions for Small Businesses
+2022,SAP,Ayaan Morar,ayaan28@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Build Single Page Application with Angular
+2021,Palo Alto Networks,Unnati Sheth,unnati8@gmail.com,Male,"Java, Swift",8LPA,Mobile App Developer,Create a Mobile Game in Swift
+2024,Google,Krish Vig,krish13@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",8LPA,Backend Developer,Scalable Microservices with Spring Boot
+2023,Accenture,Upadhriti Char,upadhriti59@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Automate Deployment using Jenkins
+2024,Salesforce,Wakeeta Merchant,wakeeta34@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Develop an E-commerce Website
+2023,Palo Alto Networks,Qarin Bava,qarin70@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",12LPA,Backend Developer,Build a RESTful API with Node.js
+2023,Oracle,Advay Loke,advay65@gmail.com,Male,General Cybersecurity Knowledge,9LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2023,Microsoft,Teerth Rao,teerth27@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2020,NVIDIA,Maanav Ratti,maanav79@gmail.com,Male,"Java, Swift",13LPA,Mobile App Developer,Build an E-commerce Mobile App
+2022,Adobe,Vansha Sharaf,vansha27@gmail.com,Male,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Design a Mobile App Interface
+2022,SAP,Inaya Din,inaya19@gmail.com,Female,"SQL, Data Analysis",9LPA,Database Administrator,Design and Implement a SQL Database
+2020,Palo Alto Networks,Veer Cheema,veer91@gmail.com,Male,"AWS, Azure, Docker",12LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2022,Juniper Networks,Maanav Dada,maanav10@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2020,IBM,Nirja Narula,nirja70@gmail.com,Female,General Technical Knowledge,6LPA,System Analyst,Develop an IT Risk Assessment Plan
+2020,Salesforce,Qabil Mody,qabil93@gmail.com,Male,"AWS, Azure, Docker",16LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2021,HCL,Peter Pandey,peter21@gmail.com,Female,Project Management Skills,11LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2020,Capgemini,David Raghavan,david13@gmail.com,Female,"SQL, Data Analysis",7LPA,Database Administrator,Create Data Backup and Recovery Plans
+2021,NVIDIA,Xiti Mital,xiti73@gmail.com,Female,Project Management Skills,18LPA,IT Project Manager,Risk Management in IT Projects
+2020,HCL,Eshana Dani,eshana82@gmail.com,Male,"Linux, Networking Protocols",12LPA,Network Engineer,Setup a Corporate Network
+2019,Facebook,Jhalak Mohan,jhalak73@gmail.com,Male,"SQL, Data Analysis",7LPA,Database Administrator,Create Data Backup and Recovery Plans
+2021,SAP,Urmi Sastry,urmi68@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,API Development with Django
+2024,Adobe,Kashish Contractor,kashish13@gmail.com,Male,"C++, Game Development Tools",15LPA,Game Developer,Build a Multiplayer Game Server
+2019,HCL,George Vasa,george58@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2024,Infosys,Yashoda Lall,yashoda73@gmail.com,Female,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2020,Oracle,Devika Vohra,devika9@gmail.com,Male,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Image Classification with CNN
+2023,Facebook,Irya Din,irya4@gmail.com,Male,"Data Analysis, SQL",8LPA,Business Analyst,Customer Behavior Analysis
+2021,Juniper Networks,Yochana Pant,yochana7@gmail.com,Male,General Technical Knowledge,8LPA,System Analyst,Design IT Solutions for Small Businesses
+2023,TCS,Warjas Mandal,warjas68@gmail.com,Female,"AWS, Azure, Docker",16LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2022,Google,Lakshmi Karan,lakshmi25@gmail.com,Female,"Java, Swift",11LPA,Mobile App Developer,Create a Mobile Game in Swift
+2021,Amazon,Raagini Jhaveri,raagini19@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",12LPA,Data Scientist,Fraud Detection System
+2024,HCL,Ekalinga Shere,ekalinga64@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Build Single Page Application with Angular
+2020,Microsoft,Jalsa Anand,jalsa83@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2023,Juniper Networks,Eiravati Ravi,eiravati88@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Design a Mobile App Interface
+2023,Google,Bhanumati Varty,bhanumati6@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",10LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2024,SAP,Frederick Dora,frederick85@gmail.com,Male,"Linux, Networking Protocols",7LPA,Network Engineer,Implement Network Load Balancing
+2023,TCS,Nandini Sane,nandini16@gmail.com,Female,General Technical Knowledge,6LPA,System Analyst,Analyze System Requirements
+2019,Microsoft,Nimrat Pall,nimrat8@gmail.com,Male,"SQL, Data Analysis",8LPA,Database Administrator,Create Data Backup and Recovery Plans
+2021,Oracle,Vincent Lala,vincent93@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,Build a RESTful API with Node.js
+2020,Adobe,Yash Tata,yash36@gmail.com,Male,Technical Troubleshooting,5LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2022,Infosys,Falak Puri,falak37@gmail.com,Female,"Linux, Networking Protocols",10LPA,Network Engineer,Configure Firewalls for Security
+2020,Wipro,Neha Varma,neha24@gmail.com,Male,Technical Troubleshooting,7LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2024,Capgemini,Tanveer Murty,tanveer71@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,API Development with Django
+2019,Facebook,Arin Chaudhari,arin13@gmail.com,Male,Testing Tools and Methodologies,9LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2022,Wipro,Geetika Bhasin,geetika77@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2021,Infosys,Pratyush Gole,pratyush78@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2023,Amazon,Indira Mammen,indira27@gmail.com,Female,"AWS, Azure, Docker",15LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2019,SAP,Girish Mody,girish28@gmail.com,Female,"C++, Game Development Tools",9LPA,Game Developer,Build a Multiplayer Game Server
+2019,Capgemini,Urishilla Ranganathan,urishilla82@gmail.com,Female,"C++, Game Development Tools",15LPA,Game Developer,Create a 2D Platformer Game with C++
+2022,Capgemini,Rehaan Borde,rehaan63@gmail.com,Female,"Linux, Networking Protocols",8LPA,Network Engineer,Configure Firewalls for Security
+2020,HCL,Gayathri Sarin,gayathri46@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Build a Social Media Application
+2020,SAP,Lakshmi Barad,lakshmi1@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2020,Microsoft,Aarini Amble,aarini4@gmail.com,Female,"C++, Game Development Tools",10LPA,Game Developer,Create a 2D Platformer Game with C++
+2024,Cisco,Charan Bhandari,charan21@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2021,Google,Devansh Krishnan,devansh81@gmail.com,Female,"Java, Swift",10LPA,Mobile App Developer,Develop a Weather App using Java
+2022,Adobe,Samar Pall,samar95@gmail.com,Male,"C++, Game Development Tools",15LPA,Game Developer,Develop a VR Game Prototype
+2019,IBM,Yashawini Oak,yashawini19@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2019,Capgemini,Girindra Baral,girindra61@gmail.com,Female,"Python, Machine Learning, TensorFlow",17LPA,Machine Learning Engineer,Recommendation System
+2023,Adobe,Chakrika Seth,chakrika11@gmail.com,Female,"SQL, Data Analysis",8LPA,Database Administrator,Design and Implement a SQL Database
+2020,Juniper Networks,Kala Chaudhari,kala44@gmail.com,Male,"Linux, Networking Protocols",7LPA,Network Engineer,Implement Network Load Balancing
+2019,Accenture,Vrishti Bir,vrishti20@gmail.com,Male,"AWS, Azure, Docker",10LPA,Cloud Architect,Migrate Application to Cloud
+2019,Salesforce,Kala Rao,kala71@gmail.com,Female,"C++, Game Development Tools",11LPA,Game Developer,Develop a VR Game Prototype
+2020,Google,Indira Mammen,indira37@gmail.com,Male,Testing Tools and Methodologies,6LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2023,Infosys,Anjali Datta,anjali45@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2019,Amazon,Chavvi Manda,chavvi81@gmail.com,Male,"Java, Swift",7LPA,Mobile App Developer,Build an E-commerce Mobile App
+2023,Salesforce,Wridesh Ratti,wridesh34@gmail.com,Male,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2023,Oracle,Tamanna Lall,tamanna86@gmail.com,Male,"AWS, Azure, Docker",16LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2023,HCL,Mahika Sandhu,mahika81@gmail.com,Male,General Cybersecurity Knowledge,14LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2021,Google,Yutika Sodhi,yutika10@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",9LPA,Frontend Developer,Build Single Page Application with Angular
+2022,Salesforce,Netra Mandal,netra92@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Create Responsive Web Design with React
+2024,SAP,Warda Rana,warda32@gmail.com,Female,Project Management Skills,12LPA,IT Project Manager,Project Planning for Software Development
+2021,Amazon,Widisha Sidhu,widisha67@gmail.com,Female,Project Management Skills,13LPA,IT Project Manager,Project Planning for Software Development
+2021,Palo Alto Networks,Yashodhara Yogi,yashodhara42@gmail.com,Female,Technical Troubleshooting,7LPA,Technical Support Specialist,Create Technical Documentation for Software
+2021,Salesforce,Damyanti Dasgupta,damyanti88@gmail.com,Male,"Linux, Networking Protocols",9LPA,Network Engineer,Setup a Corporate Network
+2020,Oracle,Libni Singhal,libni17@gmail.com,Male,"Python, Machine Learning, TensorFlow",16LPA,Machine Learning Engineer,Image Classification with CNN
+2022,HCL,William Parmar,william14@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Customer Segmentation using K-Means
+2020,Amazon,Zashil Patil,zashil43@gmail.com,Female,"Linux, Networking Protocols",6LPA,Network Engineer,Configure Firewalls for Security
+2024,Oracle,Pooja Venkatesh,pooja43@gmail.com,Male,"Data Analysis, SQL",7LPA,Business Analyst,Customer Behavior Analysis
+2021,Accenture,Liam Pall,liam42@gmail.com,Female,"Linux, Networking Protocols",6LPA,Network Engineer,Configure Firewalls for Security
+2020,Google,Faqid Rao,faqid49@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2021,Cisco,Gaurangi Setty,gaurangi13@gmail.com,Male,"AWS, Azure, Docker",15LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2022,IBM,Krishna Barman,krishna22@gmail.com,Male,Project Management Skills,14LPA,IT Project Manager,Project Planning for Software Development
+2023,Palo Alto Networks,Jeevika Singhal,jeevika53@gmail.com,Male,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2020,Palo Alto Networks,Osha Basak,osha27@gmail.com,Male,"Linux, Networking Protocols",7LPA,Network Engineer,Configure Firewalls for Security
+2020,NVIDIA,Rishi Tara,rishi98@gmail.com,Male,"C++, Game Development Tools",14LPA,Game Developer,Develop a VR Game Prototype
+2024,TCS,Robert Pillai,robert60@gmail.com,Male,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2023,Accenture,Nidhi Garde,nidhi24@gmail.com,Male,"AWS, Azure, Docker",13LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2024,Adobe,Oliver Pant,oliver39@gmail.com,Female,General Technical Knowledge,7LPA,System Analyst,Develop an IT Risk Assessment Plan
+2024,HCL,Hemang Kamdar,hemang79@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Build a Social Media Application
+2023,Oracle,Anamika Oommen,anamika27@gmail.com,Female,General Technical Knowledge,9LPA,System Analyst,Design IT Solutions for Small Businesses
+2023,Juniper Networks,Warinder De,warinder71@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",14LPA,Data Scientist,Fraud Detection System
+2023,Microsoft,Pooja Keer,pooja31@gmail.com,Female,"Java, Swift",10LPA,Mobile App Developer,Create a Mobile Game in Swift
+2021,Amazon,Liam Mukherjee,liam58@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2020,Google,Hritik Rai,hritik54@gmail.com,Male,"Data Analysis, SQL",12LPA,Business Analyst,Market Trend Analysis using SQL
+2022,Cisco,Aarush Bhat,aarush43@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",9LPA,Frontend Developer,Build Single Page Application with Angular
+2022,Facebook,Krishna Narain,krishna83@gmail.com,Female,Technical Troubleshooting,8LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2019,HCL,Kevin Agrawal,kevin36@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Scalable Microservices with Spring Boot
+2021,Facebook,Oeshi Dani,oeshi46@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",15LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2021,Wipro,Mohini Mannan,mohini26@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Develop an E-commerce Website
+2024,Adobe,Liam Morar,liam35@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Design a Mobile App Interface
+2022,Infosys,Nicholas Kota,nicholas28@gmail.com,Female,Project Management Skills,12LPA,IT Project Manager,Project Planning for Software Development
+2022,Cisco,Oni Nair,oni32@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",10LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2024,SAP,Viraj De,viraj77@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",13LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2024,TCS,Lucky Sule,lucky34@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",8LPA,Backend Developer,Build a RESTful API with Node.js
+2024,Cisco,Dominic Setty,dominic93@gmail.com,Female,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2020,Accenture,Vaishnavi Raval,vaishnavi51@gmail.com,Male,"Data Analysis, SQL",6LPA,Business Analyst,Market Trend Analysis using SQL
+2023,Apple,Alka Sha,alka47@gmail.com,Female,"Java, Swift",8LPA,Mobile App Developer,Create a Mobile Game in Swift
+2022,Wipro,Laban Goswami,laban84@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2019,Cisco,Amol Pall,amol33@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Design a Mobile App Interface
+2022,Facebook,Nilima Yohannan,nilima6@gmail.com,Male,"Data Analysis, SQL",8LPA,Business Analyst,Business Process Modeling
+2022,Palo Alto Networks,Aadi Thakur,aadi29@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",18LPA,Data Scientist,Customer Segmentation using K-Means
+2020,Accenture,Chakrika Ganguly,chakrika76@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2019,Amazon,Jeevika Sane,jeevika86@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2021,IBM,Warhi Natarajan,warhi66@gmail.com,Female,Testing Tools and Methodologies,7LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2023,Oracle,Jeet Prabhakar,jeet56@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",8LPA,Full Stack Developer,Build a Social Media Application
+2023,Capgemini,Frado Sahni,frado37@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,Scalable Microservices with Spring Boot
+2024,Infosys,Vamakshi Patla,vamakshi53@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2023,Amazon,Abdul Goyal,abdul50@gmail.com,Male,Project Management Skills,17LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,Cisco,Edhitha Badal,edhitha76@gmail.com,Female,"Java, Swift",10LPA,Mobile App Developer,Create a Mobile Game in Swift
+2023,SAP,Libni Sathe,libni17@gmail.com,Female,General Technical Knowledge,10LPA,System Analyst,Design IT Solutions for Small Businesses
+2022,Salesforce,Aadhya Barad,aadhya14@gmail.com,Male,Technical Troubleshooting,4LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2020,Accenture,Ojas Bath,ojas1@gmail.com,Female,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Design a Mobile App Interface
+2021,Adobe,Fariq Pandya,fariq5@gmail.com,Male,"C++, Game Development Tools",12LPA,Game Developer,Develop a VR Game Prototype
+2020,Facebook,Owen Dara,owen55@gmail.com,Female,Project Management Skills,12LPA,IT Project Manager,Risk Management in IT Projects
+2019,Capgemini,Nicholas Mukhopadhyay,nicholas32@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",8LPA,Backend Developer,API Development with Django
+2019,Infosys,Vivaan Natarajan,vivaan28@gmail.com,Female,"Java, Swift",7LPA,Mobile App Developer,Develop a Weather App using Java
+2021,HCL,Inaya Tella,inaya69@gmail.com,Male,General Cybersecurity Knowledge,9LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2020,NVIDIA,Wridesh Naik,wridesh14@gmail.com,Male,Technical Troubleshooting,5LPA,Technical Support Specialist,Create Technical Documentation for Software
+2021,Apple,Ekavir Oak,ekavir70@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Build a Social Media Application
+2022,Juniper Networks,Madhav Nori,madhav86@gmail.com,Female,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2019,IBM,Gavin Pathak,gavin81@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,Build a RESTful API with Node.js
+2020,HCL,Chasmum Balasubramanian,chasmum93@gmail.com,Female,"Data Analysis, SQL",11LPA,Business Analyst,Business Process Modeling
+2020,Oracle,Sai Purohit,sai9@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2023,Microsoft,Vedant Shah,vedant98@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",14LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2021,HCL,Peter Shetty,peter24@gmail.com,Female,Project Management Skills,9LPA,IT Project Manager,Risk Management in IT Projects
+2021,Accenture,Fiyaz Sandal,fiyaz86@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Create Responsive Web Design with React
+2020,Accenture,Krishna Chaudhari,krishna14@gmail.com,Female,"Data Analysis, SQL",6LPA,Business Analyst,Business Process Modeling
+2019,Infosys,Yasti Rajagopal,yasti35@gmail.com,Male,"Java, Swift",13LPA,Mobile App Developer,Develop a Weather App using Java
+2019,Palo Alto Networks,Azad Narain,azad50@gmail.com,Female,"Python, Machine Learning, TensorFlow",20LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2024,Salesforce,Harinakshi Rana,harinakshi24@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",15LPA,DevOps Engineer,Automate Deployment using Jenkins
+2024,Salesforce,Ayush Patel,ayush35@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2023,IBM,Vasudha Goel,vasudha63@gmail.com,Male,General Technical Knowledge,11LPA,System Analyst,Analyze System Requirements
+2020,Wipro,Rohan Shankar,rohan16@gmail.com,Male,Project Management Skills,12LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2022,Wipro,Shravya Singh,shravya27@gmail.com,Female,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2019,Facebook,Anya Bath,anya10@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2020,Amazon,Vincent Vora,vincent15@gmail.com,Male,"Python, Machine Learning, TensorFlow",15LPA,Machine Learning Engineer,Recommendation System
+2023,Apple,Yachana Rajagopalan,yachana48@gmail.com,Female,"C++, Game Development Tools",12LPA,Game Developer,Build a Multiplayer Game Server
+2019,Accenture,Kashish Brahmbhatt,kashish20@gmail.com,Male,General Cybersecurity Knowledge,12LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2020,HCL,Nirja Bhatti,nirja89@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Automate Deployment using Jenkins
+2020,Accenture,Kritika Ranganathan,kritika5@gmail.com,Female,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2019,Infosys,Kamala Shukla,kamala87@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2020,Palo Alto Networks,Jagdish Amble,jagdish19@gmail.com,Male,"Data Analysis, SQL",12LPA,Business Analyst,Customer Behavior Analysis
+2019,Accenture,Rajata Varkey,rajata68@gmail.com,Male,"Linux, Networking Protocols",7LPA,Network Engineer,Setup a Corporate Network
+2022,TCS,Vedant Tank,vedant82@gmail.com,Male,"C++, Game Development Tools",14LPA,Game Developer,Build a Multiplayer Game Server
+2019,Google,Yagnesh Varughese,yagnesh61@gmail.com,Female,Project Management Skills,12LPA,IT Project Manager,Risk Management in IT Projects
+2019,Capgemini,Ijaya Oak,ijaya96@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",11LPA,Backend Developer,Build a RESTful API with Node.js
+2023,Salesforce,Ojasvi Lala,ojasvi38@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Build a Social Media Application
+2020,Infosys,Rayaan Bhandari,rayaan78@gmail.com,Male,Testing Tools and Methodologies,9LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2022,TCS,Ekavir Sharma,ekavir83@gmail.com,Female,General Technical Knowledge,7LPA,System Analyst,Design IT Solutions for Small Businesses
+2020,TCS,Gunbir Baral,gunbir32@gmail.com,Male,"Linux, Networking Protocols",12LPA,Network Engineer,Configure Firewalls for Security
+2022,Palo Alto Networks,Waida Kar,waida62@gmail.com,Female,Testing Tools and Methodologies,11LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2020,Facebook,Udarsh Borah,udarsh77@gmail.com,Female,"Python, Machine Learning, TensorFlow",16LPA,Machine Learning Engineer,Recommendation System
+2023,Oracle,Maanav Padmanabhan,maanav9@gmail.com,Female,"C++, Game Development Tools",10LPA,Game Developer,Develop a VR Game Prototype
+2024,Capgemini,Nimrat Aggarwal,nimrat54@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Create a User Journey Map
+2020,Apple,Xavier Saini,xavier26@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",12LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2020,Facebook,Manan Bahri,manan14@gmail.com,Male,Technical Troubleshooting,4LPA,Technical Support Specialist,Create Technical Documentation for Software
+2023,HCL,Yagnesh Ahuja,yagnesh96@gmail.com,Female,Technical Troubleshooting,4LPA,Technical Support Specialist,Create Technical Documentation for Software
+2021,IBM,Pushti Tak,pushti39@gmail.com,Male,General Cybersecurity Knowledge,11LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2019,Accenture,Odika Hayer,odika68@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",16LPA,Data Scientist,Customer Segmentation using K-Means
+2024,Facebook,Nachiket Subramaniam,nachiket9@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",14LPA,Data Scientist,Customer Segmentation using K-Means
+2021,Oracle,Chameli Ramachandran,chameli90@gmail.com,Female,"AWS, Azure, Docker",12LPA,Cloud Architect,Migrate Application to Cloud
+2024,IBM,Janaki Anand,janaki6@gmail.com,Female,"Java, Swift",7LPA,Mobile App Developer,Create a Mobile Game in Swift
+2023,Wipro,Ucchal Subramanian,ucchal44@gmail.com,Male,"Data Analysis, SQL",9LPA,Business Analyst,Business Process Modeling
+2022,Microsoft,Dhriti Nagarajan,dhriti13@gmail.com,Female,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2021,HCL,Sai Tailor,sai20@gmail.com,Male,Project Management Skills,11LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2021,Google,Jai Kapur,jai4@gmail.com,Male,"SQL, Data Analysis",8LPA,Database Administrator,Design and Implement a SQL Database
+2022,Google,Samar Desai,samar65@gmail.com,Male,General Cybersecurity Knowledge,9LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2023,Infosys,Vritti Lad,vritti91@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2020,Capgemini,Yadavi Parsa,yadavi90@gmail.com,Male,General Cybersecurity Knowledge,13LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2020,Capgemini,Chanchal Arora,chanchal82@gmail.com,Male,General Cybersecurity Knowledge,11LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2019,Oracle,Daksh Sachdev,daksh80@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Develop an E-commerce Website
+2019,HCL,Omaja Karan,omaja20@gmail.com,Female,"AWS, Azure, Docker",14LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2019,Wipro,Falak Chacko,falak76@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Automate Deployment using Jenkins
+2024,Juniper Networks,Ekanta Keer,ekanta9@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",13LPA,Data Scientist,Fraud Detection System
+2023,Juniper Networks,Upadhriti Lall,upadhriti40@gmail.com,Female,"C++, Game Development Tools",15LPA,Game Developer,Create a 2D Platformer Game with C++
+2020,Apple,Hemang Sood,hemang40@gmail.com,Female,Technical Troubleshooting,4LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2023,Cisco,Harsh Nayar,harsh47@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Customer Segmentation using K-Means
+2021,Wipro,Unni Nath,unni66@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Build a RESTful API with Node.js
+2019,IBM,Dalbir Chana,dalbir97@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Customer Segmentation using K-Means
+2019,NVIDIA,Avi Raman,avi65@gmail.com,Male,Project Management Skills,18LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2019,Infosys,Victor Ravi,victor79@gmail.com,Female,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2022,Facebook,Nidra Guha,nidra44@gmail.com,Female,"Linux, Networking Protocols",11LPA,Network Engineer,Setup a Corporate Network
+2024,Facebook,Siya Raghavan,siya66@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",10LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2021,Capgemini,Liam Anand,liam58@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2022,Apple,Henry Mital,henry92@gmail.com,Male,Project Management Skills,15LPA,IT Project Manager,Risk Management in IT Projects
+2023,HCL,Naksh Patel,naksh6@gmail.com,Male,General Cybersecurity Knowledge,9LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2022,Accenture,Turvi Kalita,turvi71@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Develop a Weather App using Java
+2023,HCL,Harita Bumb,harita50@gmail.com,Female,"SQL, Data Analysis",9LPA,Database Administrator,Design and Implement a SQL Database
+2024,Apple,Gautam Bhandari,gautam94@gmail.com,Female,Testing Tools and Methodologies,11LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2019,Wipro,Yatan Behl,yatan50@gmail.com,Male,General Technical Knowledge,6LPA,System Analyst,Develop an IT Risk Assessment Plan
+2023,Capgemini,Priya Nath,priya1@gmail.com,Male,"AWS, Azure, Docker",11LPA,Cloud Architect,Migrate Application to Cloud
+2019,Palo Alto Networks,Harita Chada,harita26@gmail.com,Male,General Technical Knowledge,7LPA,System Analyst,Analyze System Requirements
+2022,Google,Kashish Nadkarni,kashish41@gmail.com,Female,"Java, Swift",7LPA,Mobile App Developer,Build an E-commerce Mobile App
+2020,TCS,Yamini Saxena,yamini74@gmail.com,Female,"Linux, Networking Protocols",7LPA,Network Engineer,Implement Network Load Balancing
+2019,Amazon,Samar Narayanan,samar27@gmail.com,Male,"Linux, Networking Protocols",9LPA,Network Engineer,Setup a Corporate Network
+2022,IBM,Pushti Basu,pushti5@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",16LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2023,Capgemini,Krishna Goda,krishna16@gmail.com,Female,"Data Analysis, SQL",11LPA,Business Analyst,Business Process Modeling
+2020,IBM,Hardik Sharma,hardik14@gmail.com,Female,"SQL, Data Analysis",11LPA,Database Administrator,Create Data Backup and Recovery Plans
+2020,NVIDIA,Gaurangi Dada,gaurangi46@gmail.com,Female,General Technical Knowledge,5LPA,System Analyst,Analyze System Requirements
+2024,Apple,Ubika Savant,ubika24@gmail.com,Female,General Cybersecurity Knowledge,9LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2024,Cisco,Eshana Gaba,eshana85@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2024,Cisco,Gaurika Venkataraman,gaurika8@gmail.com,Male,"Data Analysis, SQL",12LPA,Business Analyst,Business Process Modeling
+2020,Amazon,Waida Jhaveri,waida18@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Develop an E-commerce Website
+2020,NVIDIA,Tarak Bhandari,tarak15@gmail.com,Female,"AWS, Azure, Docker",20LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2022,Microsoft,Anvi Konda,anvi77@gmail.com,Male,"Data Analysis, SQL",12LPA,Business Analyst,Business Process Modeling
+2022,Oracle,Laksh Dayal,laksh81@gmail.com,Male,"Data Analysis, SQL",6LPA,Business Analyst,Customer Behavior Analysis
+2024,Apple,Ridhi Sekhon,ridhi11@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",9LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2024,Google,Logan Keer,logan58@gmail.com,Male,"Java, Swift",12LPA,Mobile App Developer,Build an E-commerce Mobile App
+2020,HCL,Prisha Sabharwal,prisha41@gmail.com,Male,"SQL, Data Analysis",7LPA,Database Administrator,Create Data Backup and Recovery Plans
+2023,NVIDIA,Theodore Sodhi,theodore77@gmail.com,Male,Project Management Skills,17LPA,IT Project Manager,Project Planning for Software Development
+2021,Oracle,Aradhana Nair,aradhana78@gmail.com,Male,"SQL, Data Analysis",9LPA,Database Administrator,Optimize Database Performance
+2019,TCS,Anthony Dhawan,anthony13@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Develop an E-commerce Website
+2020,HCL,Ekanta Mitter,ekanta29@gmail.com,Male,Project Management Skills,16LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,Google,Aadi Srivastava,aadi88@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",10LPA,Frontend Developer,Create Responsive Web Design with React
+2022,Microsoft,Ranveer Rao,ranveer69@gmail.com,Female,General Technical Knowledge,11LPA,System Analyst,Develop an IT Risk Assessment Plan
+2020,Infosys,Qushi Ramakrishnan,qushi9@gmail.com,Male,"C++, Game Development Tools",15LPA,Game Developer,Create a 2D Platformer Game with C++
+2021,Facebook,William Venkataraman,william7@gmail.com,Male,General Technical Knowledge,10LPA,System Analyst,Analyze System Requirements
+2020,Cisco,Teerth Lata,teerth61@gmail.com,Female,Technical Troubleshooting,6LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2022,Google,Qadim Subramaniam,qadim56@gmail.com,Female,"Java, Swift",12LPA,Mobile App Developer,Create a Mobile Game in Swift
+2023,Adobe,Yadavi Ganguly,yadavi1@gmail.com,Female,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2024,Capgemini,Pratyush Gokhale,pratyush20@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2024,Wipro,Yashawini Bal,yashawini82@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Create Responsive Web Design with React
+2020,Juniper Networks,Bina Iyengar,bina84@gmail.com,Male,General Technical Knowledge,11LPA,System Analyst,Analyze System Requirements
+2021,Oracle,Falan Prabhakar,falan79@gmail.com,Male,"SQL, Data Analysis",12LPA,Database Administrator,Design and Implement a SQL Database
+2022,TCS,Chandresh Bhatnagar,chandresh66@gmail.com,Female,Technical Troubleshooting,6LPA,Technical Support Specialist,Create Technical Documentation for Software
+2019,Salesforce,Kavya Prabhakar,kavya6@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2023,Cisco,Tripti Vaidya,tripti35@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",10LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2019,Infosys,Rachita Shroff,rachita1@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2024,Amazon,Umang Chawla,umang64@gmail.com,Female,"Linux, Networking Protocols",6LPA,Network Engineer,Setup a Corporate Network
+2023,Salesforce,Jack Saini,jack42@gmail.com,Female,"SQL, Data Analysis",9LPA,Database Administrator,Optimize Database Performance
+2021,Wipro,Nirja Mannan,nirja79@gmail.com,Male,Testing Tools and Methodologies,7LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2020,Juniper Networks,Zarna Bajwa,zarna76@gmail.com,Male,"Python, Machine Learning, TensorFlow",17LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2020,Capgemini,Neelima Tailor,neelima46@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",15LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2022,IBM,Nirja Kant,nirja2@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",14LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2022,Wipro,Tristan Chatterjee,tristan30@gmail.com,Male,"AWS, Azure, Docker",16LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2020,Cisco,Tanveer Andra,tanveer26@gmail.com,Female,General Technical Knowledge,5LPA,System Analyst,Analyze System Requirements
+2023,Oracle,Aditya Soman,aditya90@gmail.com,Female,General Cybersecurity Knowledge,11LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2022,Google,Jacob Kapur,jacob1@gmail.com,Female,"Java, Swift",8LPA,Mobile App Developer,Create a Mobile Game in Swift
+2022,Microsoft,Rachana Chakraborty,rachana48@gmail.com,Male,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Recommendation System
+2021,Palo Alto Networks,Daniel Ramakrishnan,daniel58@gmail.com,Male,General Technical Knowledge,5LPA,System Analyst,Analyze System Requirements
+2021,Oracle,Gabriel Mistry,gabriel42@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",9LPA,Frontend Developer,Create Responsive Web Design with React
+2023,Adobe,Wahab Hans,wahab13@gmail.com,Male,"Java, Swift",9LPA,Mobile App Developer,Build an E-commerce Mobile App
+2023,Cisco,Adweta Dey,adweta22@gmail.com,Male,Technical Troubleshooting,6LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2021,TCS,Jagat Rajagopalan,jagat73@gmail.com,Female,Project Management Skills,14LPA,IT Project Manager,Project Planning for Software Development
+2020,Oracle,Pallavi Chaudhari,pallavi52@gmail.com,Female,Project Management Skills,14LPA,IT Project Manager,Project Planning for Software Development
+2019,Facebook,Hiral Bobal,hiral50@gmail.com,Male,"C++, Game Development Tools",13LPA,Game Developer,Create a 2D Platformer Game with C++
+2019,Palo Alto Networks,Owen Bhavsar,owen18@gmail.com,Male,Testing Tools and Methodologies,11LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2024,Salesforce,Veer Kapadia,veer33@gmail.com,Female,"Data Analysis, SQL",9LPA,Business Analyst,Business Process Modeling
+2023,Microsoft,Darpan Varty,darpan96@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2024,Salesforce,Ayush Vaidya,ayush53@gmail.com,Male,General Technical Knowledge,7LPA,System Analyst,Develop an IT Risk Assessment Plan
+2022,Adobe,Lila Tank,lila30@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Automate Deployment using Jenkins
+2023,Accenture,Ranbir Patla,ranbir46@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Build an E-commerce Mobile App
+2022,Infosys,Vasudha Chopra,vasudha39@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2022,Juniper Networks,Arin Seshadri,arin49@gmail.com,Male,"SQL, Data Analysis",8LPA,Database Administrator,Design and Implement a SQL Database
+2019,TCS,Robert Deep,robert51@gmail.com,Male,"SQL, Data Analysis",7LPA,Database Administrator,Design and Implement a SQL Database
+2024,IBM,Hredhaan Misra,hredhaan76@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Develop an E-commerce Website
+2021,TCS,Zayyan Karan,zayyan69@gmail.com,Male,Project Management Skills,11LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,NVIDIA,Hardik Patla,hardik91@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",15LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2024,Cisco,Wahab Chahal,wahab15@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Create a Mobile Game in Swift
+2024,Juniper Networks,Hritik Varty,hritik71@gmail.com,Male,General Technical Knowledge,7LPA,System Analyst,Analyze System Requirements
+2021,Amazon,Ijaya Biswas,ijaya61@gmail.com,Male,Project Management Skills,18LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2021,Salesforce,Jagat Dugar,jagat55@gmail.com,Female,General Technical Knowledge,11LPA,System Analyst,Design IT Solutions for Small Businesses
+2020,SAP,Rohan Sahni,rohan90@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",11LPA,Backend Developer,API Development with Django
+2021,Wipro,Niharika Ranganathan,niharika86@gmail.com,Male,Technical Troubleshooting,6LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2021,SAP,Patrick Mohanty,patrick89@gmail.com,Male,General Technical Knowledge,11LPA,System Analyst,Develop an IT Risk Assessment Plan
+2022,TCS,Dipta Dhar,dipta27@gmail.com,Female,Technical Troubleshooting,4LPA,Technical Support Specialist,Create Technical Documentation for Software
+2023,Amazon,Faris Bava,faris80@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",10LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2024,TCS,Niharika Mutti,niharika1@gmail.com,Female,General Cybersecurity Knowledge,12LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2021,Google,Hardik Badal,hardik2@gmail.com,Male,"SQL, Data Analysis",11LPA,Database Administrator,Create Data Backup and Recovery Plans
+2022,Cisco,Tamanna Char,tamanna7@gmail.com,Male,General Technical Knowledge,9LPA,System Analyst,Develop an IT Risk Assessment Plan
+2020,Palo Alto Networks,Edhitha Chandra,edhitha59@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2019,Palo Alto Networks,Dayamai Nagi,dayamai58@gmail.com,Male,General Technical Knowledge,5LPA,System Analyst,Analyze System Requirements
+2020,Wipro,Falguni Bal,falguni29@gmail.com,Male,"AWS, Azure, Docker",19LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2024,Microsoft,Chaaya Cheema,chaaya69@gmail.com,Female,Project Management Skills,16LPA,IT Project Manager,Project Planning for Software Development
+2024,Cisco,Veda Swaminathan,veda37@gmail.com,Female,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Create a User Journey Map
+2023,SAP,Oeshi Kalita,oeshi99@gmail.com,Male,"Data Analysis, SQL",7LPA,Business Analyst,Market Trend Analysis using SQL
+2024,Accenture,Rehaan Sura,rehaan1@gmail.com,Male,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Design a Mobile App Interface
+2024,TCS,Radhika Keer,radhika39@gmail.com,Male,General Cybersecurity Knowledge,13LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2024,Oracle,Edhitha Pau,edhitha92@gmail.com,Female,"AWS, Azure, Docker",19LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2021,Amazon,Theodore Misra,theodore32@gmail.com,Female,"SQL, Data Analysis",12LPA,Database Administrator,Optimize Database Performance
+2019,Capgemini,Neha Walia,neha16@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2024,Wipro,Yug Chakrabarti,yug42@gmail.com,Female,General Technical Knowledge,9LPA,System Analyst,Design IT Solutions for Small Businesses
+2022,Palo Alto Networks,Aadi Radhakrishnan,aadi1@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",12LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2023,Microsoft,Tanay Sarma,tanay22@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Build Single Page Application with Angular
+2020,NVIDIA,Unni Arya,unni50@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2019,NVIDIA,Arya Aurora,arya59@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Develop an E-commerce Website
+2019,Oracle,Dhriti Desai,dhriti79@gmail.com,Female,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Recommendation System
+2024,Google,Aishani Bhargava,aishani44@gmail.com,Female,Project Management Skills,15LPA,IT Project Manager,Project Planning for Software Development
+2020,NVIDIA,Arin More,arin36@gmail.com,Female,"Python, Machine Learning, TensorFlow",16LPA,Machine Learning Engineer,Recommendation System
+2024,Wipro,Ryan Mittal,ryan24@gmail.com,Male,"SQL, Data Analysis",7LPA,Database Administrator,Create Data Backup and Recovery Plans
+2021,Apple,Vritti Ramakrishnan,vritti43@gmail.com,Female,"Linux, Networking Protocols",10LPA,Network Engineer,Implement Network Load Balancing
+2023,Salesforce,Aashi Badal,aashi69@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2019,IBM,Yagnesh Nadig,yagnesh29@gmail.com,Female,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Create a User Journey Map
+2020,Apple,Amrita Bobal,amrita91@gmail.com,Male,Testing Tools and Methodologies,11LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2021,Juniper Networks,Ayush Srinivasan,ayush99@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2023,SAP,Yashasvi Anne,yashasvi6@gmail.com,Male,General Technical Knowledge,11LPA,System Analyst,Analyze System Requirements
+2019,HCL,Arin Devi,arin32@gmail.com,Male,"Python, Machine Learning, TensorFlow",20LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2019,Amazon,Tara Andra,tara84@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2023,Palo Alto Networks,Laban Sawhney,laban49@gmail.com,Female,"Linux, Networking Protocols",8LPA,Network Engineer,Setup a Corporate Network
+2021,SAP,Onkar Wable,onkar33@gmail.com,Female,Project Management Skills,14LPA,IT Project Manager,Risk Management in IT Projects
+2024,Oracle,Shivansh Venkataraman,shivansh32@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Develop an E-commerce Website
+2020,Wipro,Charan Khare,charan13@gmail.com,Male,"C++, Game Development Tools",12LPA,Game Developer,Develop a VR Game Prototype
+2019,SAP,Ekbal Bhalla,ekbal94@gmail.com,Female,"Linux, Networking Protocols",11LPA,Network Engineer,Implement Network Load Balancing
+2023,Palo Alto Networks,Mitesh Naik,mitesh3@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",9LPA,Backend Developer,Scalable Microservices with Spring Boot
+2024,Oracle,George Tailor,george56@gmail.com,Female,Project Management Skills,18LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,TCS,Ucchal Sengupta,ucchal36@gmail.com,Female,"AWS, Azure, Docker",17LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2023,Microsoft,Vedhika Mukhopadhyay,vedhika80@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,Scalable Microservices with Spring Boot
+2024,Accenture,Diya Raj,diya94@gmail.com,Female,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2023,Microsoft,Nidhi Bhat,nidhi66@gmail.com,Female,Project Management Skills,9LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,Microsoft,Keya Shenoy,keya62@gmail.com,Male,"C++, Game Development Tools",8LPA,Game Developer,Create a 2D Platformer Game with C++
+2023,Salesforce,Indrajit Agate,indrajit25@gmail.com,Female,Technical Troubleshooting,6LPA,Technical Support Specialist,Create Technical Documentation for Software
+2021,Oracle,Anirudh Hegde,anirudh7@gmail.com,Male,"Linux, Networking Protocols",7LPA,Network Engineer,Implement Network Load Balancing
+2022,Oracle,Rajata Saxena,rajata36@gmail.com,Male,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Create a User Journey Map
+2019,Juniper Networks,Kavya Rastogi,kavya68@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",10LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2020,Cisco,Jacob Kade,jacob53@gmail.com,Female,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2023,Accenture,Nitara Khare,nitara71@gmail.com,Female,General Cybersecurity Knowledge,14LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2022,Accenture,Andrew Thaker,andrew24@gmail.com,Male,General Technical Knowledge,6LPA,System Analyst,Analyze System Requirements
+2024,Cisco,Patrick Patel,patrick51@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2021,Cisco,Raksha Mann,raksha23@gmail.com,Male,Technical Troubleshooting,5LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2022,Facebook,Dalbir Loke,dalbir63@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2019,Wipro,Lavanya Thaker,lavanya24@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Build Single Page Application with Angular
+2022,Salesforce,Elijah Nori,elijah73@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Automate Deployment using Jenkins
+2024,SAP,Megha Bhatt,megha27@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2020,Oracle,Tanish Pai,tanish13@gmail.com,Female,"Data Analysis, SQL",9LPA,Business Analyst,Market Trend Analysis using SQL
+2023,Juniper Networks,Dayita Dar,dayita30@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2023,NVIDIA,Max Bahri,max52@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",10LPA,Frontend Developer,Build Single Page Application with Angular
+2024,Cisco,Parth Kuruvilla,parth1@gmail.com,Male,Technical Troubleshooting,4LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2020,Oracle,Nathaniel Mand,nathaniel23@gmail.com,Female,"Python, Machine Learning, TensorFlow",17LPA,Machine Learning Engineer,Image Classification with CNN
+2019,HCL,Jatin Soman,jatin71@gmail.com,Male,"AWS, Azure, Docker",13LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2022,Palo Alto Networks,Zehaan Wable,zehaan3@gmail.com,Male,"Data Analysis, SQL",10LPA,Business Analyst,Customer Behavior Analysis
+2021,Capgemini,Mekhala Dalal,mekhala85@gmail.com,Male,"Data Analysis, SQL",10LPA,Business Analyst,Market Trend Analysis using SQL
+2020,HCL,Falan Vora,falan77@gmail.com,Female,"Linux, Networking Protocols",7LPA,Network Engineer,Setup a Corporate Network
+2020,Wipro,Advik Patla,advik47@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",18LPA,Data Scientist,Fraud Detection System
+2024,Juniper Networks,Hredhaan Golla,hredhaan14@gmail.com,Female,General Technical Knowledge,10LPA,System Analyst,Analyze System Requirements
+2021,IBM,Ira Mani,ira59@gmail.com,Male,Technical Troubleshooting,7LPA,Technical Support Specialist,Create Technical Documentation for Software
+2023,TCS,Vritti Badal,vritti57@gmail.com,Male,"Python, Machine Learning, TensorFlow",16LPA,Machine Learning Engineer,Image Classification with CNN
+2022,Amazon,Abha Apte,abha39@gmail.com,Male,Technical Troubleshooting,6LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2024,Salesforce,Vrishti Om,vrishti36@gmail.com,Female,"Linux, Networking Protocols",12LPA,Network Engineer,Configure Firewalls for Security
+2020,Facebook,Jackson Misra,jackson89@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2023,Apple,Aahana Sangha,aahana28@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Automate Deployment using Jenkins
+2022,Facebook,Om Bhardwaj,om8@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2020,Infosys,Peter Shukla,peter14@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",15LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2024,Google,Girish Mukhopadhyay,girish71@gmail.com,Female,"SQL, Data Analysis",8LPA,Database Administrator,Create Data Backup and Recovery Plans
+2019,Adobe,Dipta Dora,dipta65@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",9LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2022,HCL,Chakradev Malhotra,chakradev27@gmail.com,Female,"C++, Game Development Tools",12LPA,Game Developer,Build a Multiplayer Game Server
+2024,TCS,Damyanti Sekhon,damyanti62@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",9LPA,Backend Developer,Scalable Microservices with Spring Boot
+2024,Amazon,Sachi Khatri,sachi85@gmail.com,Male,Testing Tools and Methodologies,6LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2019,Facebook,Manan Tara,manan87@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2024,NVIDIA,Ranveer Sen,ranveer32@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Automate Deployment using Jenkins
+2023,Salesforce,Panini Banerjee,panini87@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",13LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2023,SAP,Charles Brar,charles26@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Design a Mobile App Interface
+2019,Capgemini,Ojasvi Swamy,ojasvi66@gmail.com,Male,Project Management Skills,12LPA,IT Project Manager,Project Planning for Software Development
+2021,Amazon,Yamini Savant,yamini11@gmail.com,Male,Testing Tools and Methodologies,9LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2021,Juniper Networks,Laban Thakur,laban31@gmail.com,Female,"SQL, Data Analysis",7LPA,Database Administrator,Create Data Backup and Recovery Plans
+2019,Facebook,Ikbal Gade,ikbal95@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Develop an E-commerce Website
+2022,Cisco,Ranveer Narayan,ranveer3@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Create a Mobile Game in Swift
+2024,Oracle,Omkaar Sem,omkaar31@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Create Responsive Web Design with React
+2024,Juniper Networks,Yutika Samra,yutika2@gmail.com,Female,"Python, Machine Learning, TensorFlow",13LPA,Machine Learning Engineer,Image Classification with CNN
+2019,Apple,Wyatt Chakraborty,wyatt41@gmail.com,Female,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2022,Cisco,Kamala Bhatti,kamala12@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Automate Deployment using Jenkins
+2022,Oracle,Zayan Sengupta,zayan83@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2021,Capgemini,Darika Viswanathan,darika89@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Create a User Journey Map
+2023,Microsoft,Meera Borra,meera73@gmail.com,Male,General Cybersecurity Knowledge,16LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2021,Adobe,Harita Memon,harita6@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2022,Accenture,Eiravati Rajan,eiravati38@gmail.com,Female,Project Management Skills,15LPA,IT Project Manager,Project Planning for Software Development
+2021,Wipro,Vamakshi Ramanathan,vamakshi73@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",8LPA,Full Stack Developer,Develop an E-commerce Website
+2023,Infosys,Yauvani Nayak,yauvani60@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2021,Adobe,Yashica Parmer,yashica71@gmail.com,Female,"AWS, Azure, Docker",13LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2019,Adobe,Daniel Purohit,daniel41@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2024,Google,Tripti Nagy,tripti85@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,Build a RESTful API with Node.js
+2019,NVIDIA,Bhavya Sawhney,bhavya98@gmail.com,Male,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2021,Apple,Naveen Dhar,naveen61@gmail.com,Male,General Technical Knowledge,8LPA,System Analyst,Analyze System Requirements
+2019,Salesforce,Gunbir Mutti,gunbir92@gmail.com,Female,Project Management Skills,15LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2023,Microsoft,Warinder Sama,warinder30@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Build a RESTful API with Node.js
+2023,Adobe,Ryan Srinivas,ryan10@gmail.com,Female,"SQL, Data Analysis",10LPA,Database Administrator,Create Data Backup and Recovery Plans
+2020,IBM,Brijesh Tripathi,brijesh59@gmail.com,Female,General Cybersecurity Knowledge,11LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2020,Oracle,Chanchal Choudhury,chanchal42@gmail.com,Male,"Java, Swift",13LPA,Mobile App Developer,Build an E-commerce Mobile App
+2023,Cisco,Ekta Choudhary,ekta57@gmail.com,Male,Project Management Skills,9LPA,IT Project Manager,Risk Management in IT Projects
+2024,Infosys,Mekhala Talwar,mekhala84@gmail.com,Female,"AWS, Azure, Docker",10LPA,Cloud Architect,Migrate Application to Cloud
+2021,Infosys,Ayushman Suresh,ayushman45@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",9LPA,Backend Developer,API Development with Django
+2024,HCL,Sarthak Raval,sarthak56@gmail.com,Male,"Data Analysis, SQL",6LPA,Business Analyst,Customer Behavior Analysis
+2022,Google,Agastya Bhargava,agastya8@gmail.com,Male,"Java, Swift",14LPA,Mobile App Developer,Build an E-commerce Mobile App
+2024,SAP,Parth Narang,parth5@gmail.com,Male,"AWS, Azure, Docker",18LPA,Cloud Architect,Migrate Application to Cloud
+2023,Infosys,Alka Deshpande,alka30@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2020,Oracle,Upkaar Sankar,upkaar1@gmail.com,Male,General Cybersecurity Knowledge,9LPA,Cybersecurity Specialist,Build an Intrusion Detection System
+2020,TCS,Wyatt Ratta,wyatt60@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2022,Apple,Chasmum Nazareth,chasmum75@gmail.com,Male,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Create a User Journey Map
+2024,Salesforce,Ronith Dhingra,ronith50@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",15LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2023,Oracle,Nidra Vyas,nidra8@gmail.com,Female,"Data Analysis, SQL",11LPA,Business Analyst,Customer Behavior Analysis
+2020,Wipro,Divya Peri,divya27@gmail.com,Male,"Linux, Networking Protocols",12LPA,Network Engineer,Setup a Corporate Network
+2021,IBM,Luke Dhar,luke72@gmail.com,Male,Project Management Skills,16LPA,IT Project Manager,Risk Management in IT Projects
+2022,Facebook,Aarna Nagar,aarna61@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Build an E-commerce Mobile App
+2023,Microsoft,Kala Sangha,kala61@gmail.com,Male,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2023,NVIDIA,Ekapad Gandhi,ekapad81@gmail.com,Female,"Linux, Networking Protocols",6LPA,Network Engineer,Configure Firewalls for Security
+2020,Juniper Networks,Ishanvi Dass,ishanvi60@gmail.com,Male,Technical Troubleshooting,6LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2023,HCL,Vinaya Kala,vinaya23@gmail.com,Female,"Linux, Networking Protocols",10LPA,Network Engineer,Implement Network Load Balancing
+2024,Apple,Azad Anne,azad59@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2020,Amazon,Watika Dayal,watika46@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Develop a Weather App using Java
+2022,TCS,Upadhriti Krishnan,upadhriti45@gmail.com,Male,Project Management Skills,11LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2021,HCL,Widisha Bahl,widisha87@gmail.com,Female,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2019,Facebook,Inaya Chakrabarti,inaya32@gmail.com,Female,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2021,NVIDIA,Qushi Morar,qushi88@gmail.com,Female,"Java, Swift",7LPA,Mobile App Developer,Develop a Weather App using Java
+2019,Facebook,Gunbir Sachdeva,gunbir42@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Create Responsive Web Design with React
+2022,Juniper Networks,Caleb De,caleb51@gmail.com,Female,"Data Analysis, SQL",8LPA,Business Analyst,Market Trend Analysis using SQL
+2020,Accenture,Yochana Sahni,yochana45@gmail.com,Male,"SQL, Data Analysis",7LPA,Database Administrator,Optimize Database Performance
+2020,Infosys,Gopal Malhotra,gopal72@gmail.com,Male,Testing Tools and Methodologies,11LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2021,Amazon,Inaya Bansal,inaya68@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Design a Mobile App Interface
+2019,Cisco,Jairaj Divan,jairaj95@gmail.com,Female,Testing Tools and Methodologies,6LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2023,NVIDIA,Champak Verma,champak95@gmail.com,Male,General Technical Knowledge,9LPA,System Analyst,Design IT Solutions for Small Businesses
+2020,Juniper Networks,Chaitaly Goda,chaitaly69@gmail.com,Female,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Create a User Journey Map
+2023,Wipro,Aadi Brar,aadi94@gmail.com,Male,"Linux, Networking Protocols",7LPA,Network Engineer,Configure Firewalls for Security
+2024,SAP,Ishaan Arora,ishaan61@gmail.com,Female,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2020,Juniper Networks,Wakeeta Contractor,wakeeta39@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Build a Social Media Application
+2022,NVIDIA,Balhaar Keer,balhaar14@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",14LPA,Data Scientist,Customer Segmentation using K-Means
+2020,Salesforce,Dhriti Mital,dhriti50@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2023,SAP,Noah Tata,noah50@gmail.com,Male,"Linux, Networking Protocols",10LPA,Network Engineer,Configure Firewalls for Security
+2021,Amazon,Mekhala Desai,mekhala23@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,API Development with Django
+2024,Wipro,Lipika Banik,lipika25@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",8LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2019,Oracle,Gopal Dass,gopal11@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Design a Mobile App Interface
+2022,TCS,Urvashi Bhavsar,urvashi63@gmail.com,Female,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2024,Wipro,Vincent Wagle,vincent65@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",12LPA,Data Scientist,Customer Segmentation using K-Means
+2019,Capgemini,Banjeet Sachar,banjeet1@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",14LPA,Full Stack Developer,Build a Social Media Application
+2024,Infosys,Logan Mahajan,logan67@gmail.com,Female,"AWS, Azure, Docker",15LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2022,Apple,Barkha Arora,barkha13@gmail.com,Male,"AWS, Azure, Docker",18LPA,Cloud Architect,Migrate Application to Cloud
+2020,Amazon,Jason Goda,jason29@gmail.com,Male,"Java, Swift",11LPA,Mobile App Developer,Build an E-commerce Mobile App
+2020,Oracle,Raghav Shukla,raghav20@gmail.com,Male,Project Management Skills,12LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,Cisco,Abha Bora,abha79@gmail.com,Male,General Technical Knowledge,6LPA,System Analyst,Analyze System Requirements
+2022,Wipro,Adweta Kunda,adweta24@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Fraud Detection System
+2021,IBM,Agastya Borah,agastya61@gmail.com,Female,General Technical Knowledge,10LPA,System Analyst,Design IT Solutions for Small Businesses
+2024,Capgemini,Lajita Sahota,lajita99@gmail.com,Male,"Linux, Networking Protocols",12LPA,Network Engineer,Implement Network Load Balancing
+2019,Adobe,Aarav Sarraf,aarav22@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2023,Infosys,Mitali Nayar,mitali90@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Customer Segmentation using K-Means
+2023,Cisco,Tara Sastry,tara41@gmail.com,Female,"Linux, Networking Protocols",6LPA,Network Engineer,Implement Network Load Balancing
+2021,Adobe,Nirja Bhardwaj,nirja76@gmail.com,Female,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Create a User Journey Map
+2021,Amazon,Jatin Kibe,jatin30@gmail.com,Female,General Technical Knowledge,11LPA,System Analyst,Analyze System Requirements
+2020,Apple,Yashoda Wadhwa,yashoda5@gmail.com,Male,Testing Tools and Methodologies,6LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2024,Juniper Networks,Ijaya Mall,ijaya35@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2021,SAP,Wakeeta Roy,wakeeta15@gmail.com,Male,General Cybersecurity Knowledge,16LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2021,Accenture,Amara Jayaraman,amara6@gmail.com,Male,"Python, Machine Learning, TensorFlow",13LPA,Machine Learning Engineer,Recommendation System
+2022,TCS,Nicholas Sawhney,nicholas8@gmail.com,Female,Technical Troubleshooting,6LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2021,TCS,George Muni,george5@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2022,SAP,Dominic Thaker,dominic57@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2023,IBM,Jagdish Edwin,jagdish96@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2022,Capgemini,Sachi Tak,sachi55@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Automate Deployment using Jenkins
+2021,Google,Jai Buch,jai90@gmail.com,Male,"Linux, Networking Protocols",9LPA,Network Engineer,Implement Network Load Balancing
+2022,Palo Alto Networks,Xiti Lala,xiti1@gmail.com,Male,"Python, Machine Learning, TensorFlow",20LPA,Machine Learning Engineer,Recommendation System
+2022,Oracle,Chakrika Bhakta,chakrika76@gmail.com,Male,"SQL, Data Analysis",8LPA,Database Administrator,Design and Implement a SQL Database
+2021,Microsoft,Devika Nath,devika94@gmail.com,Female,Technical Troubleshooting,5LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2022,HCL,Gabriel Wagle,gabriel85@gmail.com,Male,General Cybersecurity Knowledge,9LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2020,Wipro,Ayush Mohanty,ayush58@gmail.com,Male,"C++, Game Development Tools",15LPA,Game Developer,Build a Multiplayer Game Server
+2020,Cisco,Hemal Naidu,hemal84@gmail.com,Female,"Python, Machine Learning, TensorFlow",15LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2023,Facebook,Kritika Shere,kritika8@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",18LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2023,Salesforce,Aarush Wali,aarush73@gmail.com,Male,Technical Troubleshooting,7LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2020,Juniper Networks,Hiral Chakraborty,hiral34@gmail.com,Male,"C++, Game Development Tools",14LPA,Game Developer,Create a 2D Platformer Game with C++
+2021,NVIDIA,Triveni Sodhi,triveni12@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2019,HCL,Ridhi Kala,ridhi29@gmail.com,Male,Project Management Skills,18LPA,IT Project Manager,Project Planning for Software Development
+2024,Infosys,Yash Majumdar,yash12@gmail.com,Female,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Create a User Journey Map
+2021,Accenture,Chatura Morar,chatura59@gmail.com,Male,Testing Tools and Methodologies,10LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2020,HCL,Hiral Dewan,hiral25@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2021,TCS,Jagdish Shankar,jagdish77@gmail.com,Female,"AWS, Azure, Docker",11LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2024,Cisco,Yoshita Suresh,yoshita37@gmail.com,Female,"Linux, Networking Protocols",7LPA,Network Engineer,Setup a Corporate Network
+2024,Capgemini,Fariq Koshy,fariq45@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",10LPA,Backend Developer,Scalable Microservices with Spring Boot
+2020,Google,Nakul Raval,nakul23@gmail.com,Female,Project Management Skills,14LPA,IT Project Manager,Risk Management in IT Projects
+2019,Microsoft,Girish Mangat,girish15@gmail.com,Male,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Create a User Journey Map
+2020,Amazon,Zaid Badal,zaid68@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Customer Segmentation using K-Means
+2020,SAP,Yoshita Sule,yoshita76@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",9LPA,Backend Developer,Build a RESTful API with Node.js
+2023,Accenture,Advik Bhavsar,advik78@gmail.com,Female,General Technical Knowledge,6LPA,System Analyst,Design IT Solutions for Small Businesses
+2020,Oracle,Chandani Ranganathan,chandani13@gmail.com,Female,"AWS, Azure, Docker",19LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2020,Cisco,Parth Sane,parth86@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Fraud Detection System
+2022,Salesforce,Chavvi Sachdev,chavvi67@gmail.com,Male,"Data Analysis, SQL",7LPA,Business Analyst,Customer Behavior Analysis
+2019,NVIDIA,Joshua Shere,joshua72@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Develop an E-commerce Website
+2019,Google,Azad Parsa,azad78@gmail.com,Female,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Create a User Journey Map
+2022,Salesforce,Mohini Bumb,mohini33@gmail.com,Female,General Technical Knowledge,10LPA,System Analyst,Develop an IT Risk Assessment Plan
+2023,Microsoft,Nakul Pandit,nakul15@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",10LPA,Frontend Developer,Build Single Page Application with Angular
+2019,Microsoft,Zehaan Bhatt,zehaan45@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2024,Capgemini,Lavanya Agarwal,lavanya70@gmail.com,Male,"C++, Game Development Tools",7LPA,Game Developer,Develop a VR Game Prototype
+2019,Facebook,Indrajit Agate,indrajit45@gmail.com,Female,General Cybersecurity Knowledge,16LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2024,Juniper Networks,Lipika Nori,lipika57@gmail.com,Female,"Linux, Networking Protocols",7LPA,Network Engineer,Implement Network Load Balancing
+2022,NVIDIA,Manbir Saraf,manbir53@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",13LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2023,Accenture,Tara Chawla,tara74@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Fraud Detection System
+2022,Cisco,Yash Narayanan,yash50@gmail.com,Male,"Data Analysis, SQL",6LPA,Business Analyst,Customer Behavior Analysis
+2020,HCL,Daksha Varughese,daksha86@gmail.com,Female,"Python, Machine Learning, TensorFlow",16LPA,Machine Learning Engineer,Image Classification with CNN
+2022,Juniper Networks,Megha Gandhi,megha37@gmail.com,Male,"SQL, Data Analysis",11LPA,Database Administrator,Create Data Backup and Recovery Plans
+2020,SAP,Triveni Das,triveni86@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2021,Microsoft,Dalaja Kunda,dalaja55@gmail.com,Female,"SQL, Data Analysis",9LPA,Database Administrator,Design and Implement a SQL Database
+2022,Salesforce,Forum Bedi,forum76@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2022,IBM,Ekapad Joshi,ekapad80@gmail.com,Female,"Python, Machine Learning, TensorFlow",18LPA,Machine Learning Engineer,Recommendation System
+2024,Accenture,Arya Sheth,arya90@gmail.com,Male,Technical Troubleshooting,5LPA,Technical Support Specialist,Create Technical Documentation for Software
+2024,Salesforce,Eshana Agarwal,eshana78@gmail.com,Female,"Linux, Networking Protocols",12LPA,Network Engineer,Configure Firewalls for Security
+2022,TCS,Amara Choudhury,amara36@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",9LPA,Backend Developer,API Development with Django
+2020,NVIDIA,Wishi D’Alia,wishi25@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",9LPA,Backend Developer,Build a RESTful API with Node.js
+2021,Amazon,Lipika Dani,lipika21@gmail.com,Female,Project Management Skills,16LPA,IT Project Manager,Risk Management in IT Projects
+2022,Cisco,Arjun Lalla,arjun38@gmail.com,Female,"AWS, Azure, Docker",13LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2020,Infosys,Hredhaan Chaudhry,hredhaan87@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Scalable Microservices with Spring Boot
+2019,Palo Alto Networks,Nitara Kala,nitara35@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Automate Deployment using Jenkins
+2023,Accenture,Sachi Kunda,sachi91@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",8LPA,Frontend Developer,Build Single Page Application with Angular
+2024,Adobe,Radha Varghese,radha59@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2021,SAP,Charles Suri,charles43@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",14LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2022,Infosys,Dayamai Dube,dayamai67@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Build a Social Media Application
+2019,Wipro,Waida Thakur,waida86@gmail.com,Female,Project Management Skills,15LPA,IT Project Manager,Project Planning for Software Development
+2020,Palo Alto Networks,Yatan De,yatan39@gmail.com,Male,Project Management Skills,11LPA,IT Project Manager,Project Planning for Software Development
+2024,Juniper Networks,Caleb Loyal,caleb72@gmail.com,Female,"Data Analysis, SQL",11LPA,Business Analyst,Market Trend Analysis using SQL
+2024,Google,Bachittar Parikh,bachittar64@gmail.com,Female,"AWS, Azure, Docker",18LPA,Cloud Architect,Migrate Application to Cloud
+2024,Amazon,Gagan Mammen,gagan25@gmail.com,Male,"Java, Swift",13LPA,Mobile App Developer,Create a Mobile Game in Swift
+2020,Adobe,Daniel Cherian,daniel60@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",9LPA,Frontend Developer,Build Single Page Application with Angular
+2020,TCS,Anika Mand,anika67@gmail.com,Male,"Java, Swift",14LPA,Mobile App Developer,Build an E-commerce Mobile App
+2022,Adobe,Nathaniel Wagle,nathaniel26@gmail.com,Male,Project Management Skills,12LPA,IT Project Manager,Risk Management in IT Projects
+2023,Facebook,Yachana Merchant,yachana17@gmail.com,Male,Project Management Skills,13LPA,IT Project Manager,Risk Management in IT Projects
+2024,Adobe,Rayaan Choudhary,rayaan48@gmail.com,Female,"C++, Game Development Tools",12LPA,Game Developer,Develop a VR Game Prototype
+2024,Capgemini,Suhani Sathe,suhani95@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Create Responsive Web Design with React
+2019,TCS,Hiral Mangat,hiral78@gmail.com,Female,"Data Analysis, SQL",8LPA,Business Analyst,Market Trend Analysis using SQL
+2020,Salesforce,Raghav Andra,raghav97@gmail.com,Female,"Python, Machine Learning, TensorFlow",16LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2021,Cisco,Balendra Master,balendra64@gmail.com,Male,Project Management Skills,16LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,Accenture,Aadhya Merchant,aadhya73@gmail.com,Female,Testing Tools and Methodologies,11LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2020,Palo Alto Networks,Saumya Korpal,saumya58@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",12LPA,Data Scientist,Customer Segmentation using K-Means
+2020,Accenture,Shivani Dyal,shivani96@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2019,Capgemini,Thomas Chakrabarti,thomas68@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2023,Google,Shivani Walla,shivani23@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",10LPA,Frontend Developer,Create Responsive Web Design with React
+2023,Capgemini,Ucchal Bhalla,ucchal92@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",9LPA,Frontend Developer,Build Single Page Application with Angular
+2023,Capgemini,Osha Kannan,osha26@gmail.com,Female,"Linux, Networking Protocols",10LPA,Network Engineer,Configure Firewalls for Security
+2022,Microsoft,Samesh Padmanabhan,samesh9@gmail.com,Female,General Technical Knowledge,9LPA,System Analyst,Design IT Solutions for Small Businesses
+2021,HCL,Harini Chadha,harini75@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",10LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2021,Google,Yauvani Lalla,yauvani63@gmail.com,Female,"SQL, Data Analysis",12LPA,Database Administrator,Create Data Backup and Recovery Plans
+2021,Amazon,Urvi Lad,urvi51@gmail.com,Female,"AWS, Azure, Docker",12LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2024,Juniper Networks,Yatan Wason,yatan27@gmail.com,Female,"SQL, Data Analysis",10LPA,Database Administrator,Design and Implement a SQL Database
+2020,NVIDIA,Anay Pandit,anay48@gmail.com,Female,"AWS, Azure, Docker",15LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2019,Amazon,Ekalinga Buch,ekalinga75@gmail.com,Male,"Java, Swift",7LPA,Mobile App Developer,Build an E-commerce Mobile App
+2024,SAP,Ishwar Datta,ishwar17@gmail.com,Male,"AWS, Azure, Docker",17LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2020,Google,Lavanya Dasgupta,lavanya2@gmail.com,Male,Testing Tools and Methodologies,7LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2024,Apple,Omaja Vyas,omaja67@gmail.com,Female,"Java, Swift",12LPA,Mobile App Developer,Develop a Weather App using Java
+2022,Wipro,Falguni Sethi,falguni29@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",19LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2022,Cisco,Ijaya Sawhney,ijaya43@gmail.com,Female,Project Management Skills,13LPA,IT Project Manager,Risk Management in IT Projects
+2019,IBM,Frederick Sunder,frederick77@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",20LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2023,IBM,Janani Dass,janani42@gmail.com,Male,"AWS, Azure, Docker",11LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2021,Microsoft,Manan Chakrabarti,manan43@gmail.com,Female,"Python, Machine Learning, TensorFlow",13LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2020,SAP,Sara Chacko,sara90@gmail.com,Female,"AWS, Azure, Docker",13LPA,Cloud Architect,Migrate Application to Cloud
+2020,NVIDIA,Aahana Gupta,aahana34@gmail.com,Female,General Technical Knowledge,9LPA,System Analyst,Design IT Solutions for Small Businesses
+2022,Adobe,Zaid Sibal,zaid14@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,Build a RESTful API with Node.js
+2022,Salesforce,Owen Gera,owen29@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",11LPA,Backend Developer,API Development with Django
+2023,Cisco,Rehaan Mannan,rehaan98@gmail.com,Female,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Design a Mobile App Interface
+2020,Salesforce,Robert Kapadia,robert65@gmail.com,Male,"HTML, CSS, JavaScript, React",6LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2023,Microsoft,Aryan Baral,aryan62@gmail.com,Female,"Data Analysis, SQL",8LPA,Business Analyst,Customer Behavior Analysis
+2024,SAP,Nitara Upadhyay,nitara47@gmail.com,Male,"Data Analysis, SQL",9LPA,Business Analyst,Market Trend Analysis using SQL
+2020,NVIDIA,Advik Issac,advik31@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Build a Social Media Application
+2023,Facebook,Ansh Kannan,ansh82@gmail.com,Female,"C++, Game Development Tools",14LPA,Game Developer,Create a 2D Platformer Game with C++
+2020,HCL,Vinaya Thaker,vinaya64@gmail.com,Male,"Data Analysis, SQL",10LPA,Business Analyst,Market Trend Analysis using SQL
+2021,SAP,Unni Maharaj,unni85@gmail.com,Female,"Data Analysis, SQL",9LPA,Business Analyst,Market Trend Analysis using SQL
+2024,Wipro,Udarsh Srinivasan,udarsh25@gmail.com,Male,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Design a Mobile App Interface
+2024,Salesforce,Meghana Barman,meghana99@gmail.com,Male,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2024,Oracle,Mugdha Mander,mugdha92@gmail.com,Male,"C++, Game Development Tools",12LPA,Game Developer,Develop a VR Game Prototype
+2021,NVIDIA,Varenya Pandit,varenya95@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Automate Deployment using Jenkins
+2023,Juniper Networks,Ekta Mangat,ekta3@gmail.com,Male,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2021,HCL,Rudra Gara,rudra21@gmail.com,Male,"AWS, Azure, Docker",19LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2024,Microsoft,Vaishnavi Anand,vaishnavi98@gmail.com,Female,Technical Troubleshooting,5LPA,Technical Support Specialist,Create Technical Documentation for Software
+2023,Adobe,Indali Bobal,indali93@gmail.com,Female,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Design a Mobile App Interface
+2020,Apple,Rajeshri Kanda,rajeshri88@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Build Single Page Application with Angular
+2023,Palo Alto Networks,Vanya Bhavsar,vanya7@gmail.com,Male,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Develop a QA Strategy for Large Applications
+2019,Accenture,Diya Mangal,diya58@gmail.com,Male,Testing Tools and Methodologies,7LPA,Quality Assurance Engineer,Implement Unit Testing in Agile
+2019,Apple,Utkarsh Keer,utkarsh20@gmail.com,Female,"AWS, Azure, Docker",14LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2019,Oracle,Chaitaly Kakar,chaitaly38@gmail.com,Female,"Linux, Networking Protocols",6LPA,Network Engineer,Configure Firewalls for Security
+2021,Palo Alto Networks,Kai Walla,kai80@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Automate Deployment using Jenkins
+2024,SAP,Vanya Bail,vanya70@gmail.com,Female,"Data Analysis, SQL",12LPA,Business Analyst,Business Process Modeling
+2021,Oracle,Kamala Kata,kamala97@gmail.com,Male,Project Management Skills,18LPA,IT Project Manager,Risk Management in IT Projects
+2023,Amazon,Meera Vyas,meera79@gmail.com,Female,Project Management Skills,18LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,HCL,Qabil Pathak,qabil50@gmail.com,Male,Technical Troubleshooting,6LPA,Technical Support Specialist,Troubleshoot Networking Issues
+2024,Google,Anita Sahni,anita56@gmail.com,Male,Technical Troubleshooting,7LPA,Technical Support Specialist,Create Technical Documentation for Software
+2024,Google,Shravya Khare,shravya74@gmail.com,Male,"AWS, Azure, Docker",15LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2022,TCS,Simon Deol,simon27@gmail.com,Male,"Python, Machine Learning, TensorFlow",12LPA,Machine Learning Engineer,Recommendation System
+2022,Salesforce,Ryan Pall,ryan14@gmail.com,Female,Project Management Skills,13LPA,IT Project Manager,Risk Management in IT Projects
+2019,Microsoft,Kevin Bera,kevin70@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2021,Wipro,Diya Iyer,diya78@gmail.com,Male,General Cybersecurity Knowledge,11LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2024,Google,Nathan Mohan,nathan32@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",19LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2019,IBM,Yachana Upadhyay,yachana85@gmail.com,Female,"C++, Game Development Tools",11LPA,Game Developer,Develop a VR Game Prototype
+2024,Wipro,Odika Bhatt,odika81@gmail.com,Female,"C++, Game Development Tools",10LPA,Game Developer,Develop a VR Game Prototype
+2024,Microsoft,Ira Acharya,ira53@gmail.com,Female,"C++, Game Development Tools",11LPA,Game Developer,Develop a VR Game Prototype
+2024,Capgemini,Urmi Mann,urmi49@gmail.com,Female,"C++, Game Development Tools",11LPA,Game Developer,Create a 2D Platformer Game with C++
+2019,Microsoft,Lila Sarkar,lila96@gmail.com,Male,Technical Troubleshooting,7LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2021,Microsoft,Advaith Badami,advaith1@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",18LPA,Data Scientist,Fraud Detection System
+2020,TCS,Guneet Buch,guneet76@gmail.com,Male,"Java, Swift",8LPA,Mobile App Developer,Develop a Weather App using Java
+2019,SAP,Gagan Dhar,gagan50@gmail.com,Male,"SQL, Data Analysis",9LPA,Database Administrator,Create Data Backup and Recovery Plans
+2024,SAP,Oviya Prabhu,oviya60@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Fraud Detection System
+2021,Google,Zayyan Nayar,zayyan19@gmail.com,Female,"Java, Swift",9LPA,Mobile App Developer,Develop a Weather App using Java
+2019,Microsoft,Samesh Kunda,samesh15@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2022,Apple,Saumya Dasgupta,saumya30@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Build a Social Media Application
+2019,Oracle,Qasim Mani,qasim57@gmail.com,Female,"SQL, Data Analysis",9LPA,Database Administrator,Optimize Database Performance
+2023,IBM,Ekavir Kashyap,ekavir82@gmail.com,Male,Project Management Skills,9LPA,IT Project Manager,Risk Management in IT Projects
+2020,IBM,Hemal Suresh,hemal90@gmail.com,Female,"Python, Machine Learning, TensorFlow",14LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2021,Apple,Deepa Rajagopal,deepa2@gmail.com,Female,"Data Analysis, SQL",6LPA,Business Analyst,Customer Behavior Analysis
+2020,Capgemini,Nachiket Viswanathan,nachiket60@gmail.com,Female,"Linux, Networking Protocols",10LPA,Network Engineer,Implement Network Load Balancing
+2019,Juniper Networks,Umang Halder,umang90@gmail.com,Female,"C++, Game Development Tools",14LPA,Game Developer,Create a 2D Platformer Game with C++
+2024,Microsoft,Udarsh Bava,udarsh56@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",8LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2024,Adobe,Ekiya Dass,ekiya19@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Build Single Page Application with Angular
+2024,Cisco,Jeevika Balakrishnan,jeevika89@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2019,Microsoft,Balvan Andra,balvan63@gmail.com,Female,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2022,Salesforce,Arin Sachdeva,arin7@gmail.com,Male,General Technical Knowledge,10LPA,System Analyst,Analyze System Requirements
+2019,Apple,Ekantika Tiwari,ekantika27@gmail.com,Female,"HTML, CSS, JavaScript, React",9LPA,UI/UX Designer,Build Interactive Wireframes for Web Applications
+2023,Salesforce,Charles Rama,charles43@gmail.com,Female,"Python, Machine Learning, TensorFlow",19LPA,Machine Learning Engineer,Recommendation System
+2021,Microsoft,Reva Majumdar,reva5@gmail.com,Female,General Technical Knowledge,7LPA,System Analyst,Develop an IT Risk Assessment Plan
+2022,Google,Lakshit Wali,lakshit40@gmail.com,Male,"Linux, Networking Protocols",7LPA,Network Engineer,Setup a Corporate Network
+2019,Palo Alto Networks,Ojas Bedi,ojas1@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2021,Wipro,Chanakya Anne,chanakya47@gmail.com,Male,"SQL, Data Analysis",9LPA,Database Administrator,Optimize Database Performance
+2021,Google,Mohammed Nayak,mohammed76@gmail.com,Female,"AWS, Azure, Docker",17LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2023,Facebook,Neelima Venkataraman,neelima91@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",12LPA,Data Scientist,Customer Segmentation using K-Means
+2020,Juniper Networks,Chakrika Thaman,chakrika99@gmail.com,Male,"Linux, Networking Protocols",9LPA,Network Engineer,Configure Firewalls for Security
+2023,TCS,Ayushman Wason,ayushman97@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",12LPA,Data Scientist,Customer Segmentation using K-Means
+2022,SAP,Qadim Sankar,qadim46@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",17LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2020,Adobe,Oviya Nadkarni,oviya44@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",8LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2023,Microsoft,Indira Kant,indira17@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2023,Google,Anusha Kant,anusha7@gmail.com,Male,"Linux, Networking Protocols",6LPA,Network Engineer,Setup a Corporate Network
+2019,Accenture,Ronith Sood,ronith81@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Create Responsive Web Design with React
+2021,Salesforce,Frederick Mann,frederick13@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Design a Mobile App Interface
+2023,HCL,Jagat Parekh,jagat80@gmail.com,Male,General Technical Knowledge,5LPA,System Analyst,Design IT Solutions for Small Businesses
+2021,NVIDIA,Praneel Upadhyay,praneel82@gmail.com,Female,"HTML, CSS, JavaScript, React",8LPA,UI/UX Designer,Design a Mobile App Interface
+2022,Wipro,Hema Nayak,hema66@gmail.com,Female,Testing Tools and Methodologies,8LPA,Quality Assurance Engineer,Automated Testing with Selenium
+2020,Facebook,Samaksh Misra,samaksh12@gmail.com,Female,Technical Troubleshooting,7LPA,Technical Support Specialist,Create Technical Documentation for Software
+2024,Juniper Networks,Damyanti Badami,damyanti12@gmail.com,Female,"Data Analysis, SQL",6LPA,Business Analyst,Customer Behavior Analysis
+2024,Facebook,Anusha Hora,anusha90@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Develop an E-commerce Website
+2022,Apple,Darika Sodhi,darika90@gmail.com,Female,"AWS, Azure, Docker",15LPA,Cloud Architect,Migrate Application to Cloud
+2021,TCS,Tanay Kulkarni,tanay25@gmail.com,Male,Technical Troubleshooting,5LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2020,Amazon,Girik Bhatt,girik13@gmail.com,Female,"C++, Game Development Tools",14LPA,Game Developer,Build a Multiplayer Game Server
+2020,Infosys,Viraj Subramanian,viraj14@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2024,Amazon,Ethan Narain,ethan10@gmail.com,Male,"Java, Swift",10LPA,Mobile App Developer,Build an E-commerce Mobile App
+2019,Accenture,Thomas Batra,thomas31@gmail.com,Male,"AWS, Azure, Docker",20LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2021,Wipro,Zehaan Choudhry,zehaan51@gmail.com,Female,"C++, Game Development Tools",14LPA,Game Developer,Create a 2D Platformer Game with C++
+2020,IBM,Benjamin Pillai,benjamin58@gmail.com,Male,"AWS, Azure, Docker",18LPA,Cloud Architect,Design a Scalable Cloud Storage Solution
+2023,Amazon,Nirja Sur,nirja76@gmail.com,Male,"Data Analysis, SQL",7LPA,Business Analyst,Customer Behavior Analysis
+2022,Capgemini,Urishilla Rastogi,urishilla5@gmail.com,Female,"C++, Game Development Tools",12LPA,Game Developer,Create a 2D Platformer Game with C++
+2024,Salesforce,Advaith Patla,advaith30@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",12LPA,DevOps Engineer,Automate Deployment using Jenkins
+2021,Microsoft,Samarth Yohannan,samarth16@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,API Development with Django
+2024,Palo Alto Networks,Alexander Chada,alexander11@gmail.com,Male,General Technical Knowledge,5LPA,System Analyst,Design IT Solutions for Small Businesses
+2023,Google,Rehaan Mammen,rehaan85@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2020,Microsoft,Madhavi Mander,madhavi7@gmail.com,Male,Project Management Skills,10LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2023,HCL,Vincent Guha,vincent29@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",14LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2019,Juniper Networks,Sai Setty,sai15@gmail.com,Male,General Cybersecurity Knowledge,12LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2022,Adobe,Advika Kunda,advika35@gmail.com,Male,General Cybersecurity Knowledge,10LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2019,Capgemini,Qasim Dhar,qasim73@gmail.com,Male,"AWS, Azure, Docker",19LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2024,Apple,Samar Samra,samar2@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",15LPA,Full Stack Developer,Develop an E-commerce Website
+2021,Salesforce,Chatura Kari,chatura67@gmail.com,Male,"Data Analysis, SQL",7LPA,Business Analyst,Market Trend Analysis using SQL
+2021,Capgemini,Chatura Agarwal,chatura30@gmail.com,Female,Project Management Skills,13LPA,IT Project Manager,Project Planning for Software Development
+2019,Amazon,Urmi Gupta,urmi30@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",12LPA,Frontend Developer,Build Single Page Application with Angular
+2022,Apple,Aarush Dhingra,aarush81@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",14LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2019,TCS,Yatan Taneja,yatan41@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Build a Social Media Application
+2023,Palo Alto Networks,Sanya Sekhon,sanya42@gmail.com,Male,"Java, Swift",7LPA,Mobile App Developer,Develop a Weather App using Java
+2021,Apple,Caleb Behl,caleb61@gmail.com,Male,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2021,Oracle,Nathan Kala,nathan91@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",10LPA,DevOps Engineer,Implement CI/CD Pipeline with Docker and Kubernetes
+2024,Palo Alto Networks,Jhalak Wable,jhalak13@gmail.com,Female,"SQL, Data Analysis",9LPA,Database Administrator,Create Data Backup and Recovery Plans
+2020,Google,Avi Parsa,avi57@gmail.com,Female,"AWS, Azure, Docker",11LPA,Cloud Architect,Build Multi-Cloud Architecture on AWS and Azure
+2022,Wipro,Samar Srinivas,samar77@gmail.com,Female,"Python, Machine Learning, TensorFlow",17LPA,Machine Learning Engineer,Recommendation System
+2023,Amazon,Ojas Nair,ojas53@gmail.com,Female,"AWS, Azure, Docker",14LPA,Cloud Architect,Migrate Application to Cloud
+2020,NVIDIA,Krishna Hora,krishna67@gmail.com,Male,"SQL, Data Analysis",12LPA,Database Administrator,Design and Implement a SQL Database
+2022,NVIDIA,Megha Sodhi,megha73@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",13LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2020,IBM,Ekansh Kurian,ekansh87@gmail.com,Male,"Python, Machine Learning, TensorFlow",18LPA,Machine Learning Engineer,Recommendation System
+2020,Salesforce,Bimala Keer,bimala33@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Build a Social Media Application
+2019,Wipro,Qarin Chander,qarin20@gmail.com,Male,"AWS, Azure, Docker",18LPA,Cloud Architect,Migrate Application to Cloud
+2022,Microsoft,Arya Bala,arya82@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",9LPA,Full Stack Developer,Develop an E-commerce Website
+2020,SAP,Samarth Menon,samarth2@gmail.com,Female,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2022,Wipro,Yashvi Dutta,yashvi12@gmail.com,Female,General Cybersecurity Knowledge,12LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2019,Wipro,Pooja Ramesh,pooja61@gmail.com,Male,"Git, Docker, Kubernetes, AWS, Azure",11LPA,DevOps Engineer,Automate Deployment using Jenkins
+2022,IBM,Balveer Batra,balveer49@gmail.com,Female,"Linux, Networking Protocols",9LPA,Network Engineer,Implement Network Load Balancing
+2019,Microsoft,William Mand,william96@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Build a RESTful API with Node.js
+2024,Cisco,Ekapad Mann,ekapad25@gmail.com,Female,"Linux, Networking Protocols",7LPA,Network Engineer,Configure Firewalls for Security
+2022,Infosys,Karan Batra,karan79@gmail.com,Male,"HTML, CSS, JavaScript, React",7LPA,UI/UX Designer,Create a User Journey Map
+2020,Adobe,Mason Gola,mason85@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",10LPA,Frontend Developer,Build Single Page Application with Angular
+2021,Microsoft,Hritik Sarma,hritik23@gmail.com,Female,"Linux, Networking Protocols",10LPA,Network Engineer,Configure Firewalls for Security
+2021,Adobe,Chavvi Rao,chavvi38@gmail.com,Female,General Technical Knowledge,9LPA,System Analyst,Analyze System Requirements
+2020,TCS,Samuel Buch,samuel80@gmail.com,Male,"Linux, Networking Protocols",8LPA,Network Engineer,Implement Network Load Balancing
+2024,Capgemini,Rishi Hora,rishi57@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",16LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2021,Infosys,Xavier Muni,xavier42@gmail.com,Male,"HTML, CSS, JavaScript, React",10LPA,UI/UX Designer,Create a User Journey Map
+2024,SAP,Nitesh Deol,nitesh71@gmail.com,Female,"Git, Docker, Kubernetes, AWS, Azure",10LPA,DevOps Engineer,Build Infrastructure as Code with Terraform
+2022,Cisco,Gaurangi Swamy,gaurangi23@gmail.com,Female,"C++, Game Development Tools",14LPA,Game Developer,Build a Multiplayer Game Server
+2020,Juniper Networks,Chandran Sankaran,chandran11@gmail.com,Male,"C++, Game Development Tools",12LPA,Game Developer,Build a Multiplayer Game Server
+2019,Adobe,Rajeshri Chatterjee,rajeshri86@gmail.com,Male,"Python, Machine Learning, TensorFlow",15LPA,Machine Learning Engineer,Sentiment Analysis with RNN
+2019,Cisco,Madhav Mital,madhav91@gmail.com,Female,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Perform Web Application Penetration Testing
+2019,Accenture,Ronith Dugar,ronith19@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Build Single Page Application with Angular
+2019,Amazon,Benjamin Brar,benjamin97@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Build a RESTful API with Node.js
+2020,Microsoft,Aadhya Vig,aadhya30@gmail.com,Male,"Java, Swift",9LPA,Mobile App Developer,Create a Mobile Game in Swift
+2022,Google,Forum Koshy,forum51@gmail.com,Male,"AWS, Azure, Docker",19LPA,Cloud Architect,Migrate Application to Cloud
+2023,HCL,Nicholas Wali,nicholas46@gmail.com,Female,"AWS, Azure, Docker",19LPA,Cloud Architect,Migrate Application to Cloud
+2022,Cisco,Gautami Khare,gautami50@gmail.com,Female,"Java, Swift",11LPA,Mobile App Developer,Develop a Weather App using Java
+2022,Accenture,Urmi Nazareth,urmi52@gmail.com,Female,"Data Analysis, SQL",8LPA,Business Analyst,Customer Behavior Analysis
+2019,IBM,Lipika Salvi,lipika79@gmail.com,Male,Technical Troubleshooting,7LPA,Technical Support Specialist,Develop a Ticketing System for Support
+2022,TCS,Saksham Sura,saksham78@gmail.com,Male,General Technical Knowledge,9LPA,System Analyst,Design IT Solutions for Small Businesses
+2020,HCL,Zayan Shan,zayan92@gmail.com,Male,"SQL, Data Analysis",7LPA,Database Administrator,Optimize Database Performance
+2021,Amazon,Osha Krishnan,osha28@gmail.com,Male,"Python, Machine Learning, TensorFlow",20LPA,Machine Learning Engineer,Image Classification with CNN
+2019,Google,Chakradhar Dubey,chakradhar22@gmail.com,Female,Technical Troubleshooting,5LPA,Technical Support Specialist,Create Technical Documentation for Software
+2021,Apple,Vivaan Bhakta,vivaan52@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",20LPA,Data Scientist,Customer Segmentation using K-Means
+2020,Capgemini,Pushti Sachar,pushti98@gmail.com,Male,"Java, Swift",9LPA,Mobile App Developer,Build an E-commerce Mobile App
+2019,Juniper Networks,Aarini Narayan,aarini3@gmail.com,Female,"C++, Game Development Tools",13LPA,Game Developer,Develop a VR Game Prototype
+2022,TCS,Zilmil Nagi,zilmil48@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Build Single Page Application with Angular
+2019,Adobe,Harsh Bal,harsh92@gmail.com,Male,General Technical Knowledge,8LPA,System Analyst,Design IT Solutions for Small Businesses
+2019,Apple,Yashoda Bhasin,yashoda56@gmail.com,Male,"JavaScript, HTML, CSS, Node.js, React",13LPA,Full Stack Developer,Create a Real-time Chat App with Node.js and React
+2023,Adobe,Abhiram Sant,abhiram17@gmail.com,Female,"Python, SQL, Machine Learning, Data Analysis",15LPA,Data Scientist,Fraud Detection System
+2019,NVIDIA,Jasmit Nagi,jasmit66@gmail.com,Male,General Technical Knowledge,8LPA,System Analyst,Develop an IT Risk Assessment Plan
+2022,Palo Alto Networks,Krisha Bal,krisha96@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",13LPA,Backend Developer,API Development with Django
+2021,Juniper Networks,Bakhshi Sen,bakhshi37@gmail.com,Female,"Java, Python, SQL, Node.js, Spring Boot",14LPA,Backend Developer,Scalable Microservices with Spring Boot
+2021,HCL,Falan Parmar,falan38@gmail.com,Male,"Java, Python, SQL, Node.js, Spring Boot",8LPA,Backend Developer,Build a RESTful API with Node.js
+2024,SAP,Bishakha Yadav,bishakha54@gmail.com,Male,"JavaScript, HTML, CSS, React, Angular",7LPA,Frontend Developer,Build Single Page Application with Angular
+2020,TCS,Faraj Bajwa,faraj79@gmail.com,Female,General Technical Knowledge,11LPA,System Analyst,Design IT Solutions for Small Businesses
+2019,NVIDIA,Lakshmi Baral,lakshmi86@gmail.com,Female,Project Management Skills,11LPA,IT Project Manager,Project Planning for Software Development
+2021,HCL,Faqid Narula,faqid1@gmail.com,Male,"C++, Game Development Tools",11LPA,Game Developer,Build a Multiplayer Game Server
+2024,HCL,Ishanvi Sachdev,ishanvi36@gmail.com,Female,"JavaScript, HTML, CSS, React, Angular",11LPA,Frontend Developer,Develop a Dynamic Web Dashboard with JavaScript
+2019,SAP,Vyanjana Naik,vyanjana80@gmail.com,Male,General Cybersecurity Knowledge,15LPA,Cybersecurity Specialist,Implement Network Security Monitoring
+2022,Microsoft,Krishna Hari,krishna80@gmail.com,Male,"Python, SQL, Machine Learning, Data Analysis",12LPA,Data Scientist,Predictive Analytics for Sales Forecasting
+2020,Google,Panini Kibe,panini89@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",12LPA,Full Stack Developer,Develop an E-commerce Website
+2022,Wipro,Rohan Gaba,rohan33@gmail.com,Female,Project Management Skills,11LPA,IT Project Manager,Agile Implementation in Large Scale Projects
+2024,Cisco,Nathan Chana,nathan96@gmail.com,Female,"JavaScript, HTML, CSS, Node.js, React",11LPA,Full Stack Developer,Build a Social Media Application

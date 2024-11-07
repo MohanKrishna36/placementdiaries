@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Share Your Journey</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+        padding: 20px; /* Added padding to ensure top is visible */
+        background-color: #f0f0f0;
+        overflow-y: auto; /* Allows scrolling */
+      }
+      .container {
+        width: 400px;
+        padding: 20px;
+        background-color: #ffffff;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        text-align: center;
+      }
+      h2 {
+        margin-top: 0;
+        color: #333;
+      }
+      label {
+        display: block;
+        text-align: left;
+        margin-top: 10px;
+        color: #333;
+      }
+      input,
+      textarea,
+      select {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 14px;
+      }
+      .buttons {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+      }
+      button {
+        padding: 10px 20px;
+        font-size: 14px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+      .submit-button {
+        background-color: #007bff;
+        color: #fff;
+      }
+      .submit-button:hover {
+        background-color: #0056b3;
+      }
+      .home-button {
+        background-color: #6c757d;
+        color: #fff;
+      }
+      .home-button:hover {
+        background-color: #5a6268;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Share Your Journey</h2>
+      <p>Inspire future aspirants by sharing your placement experience and insights!</p>
+      <form action="/share" method="post">
+        <label for="year">Year of Placement:</label>
+        <input type="text" id="year" name="year" required />
+
+        <label for="company">Company Name:</label>
+        <input type="text" id="company" name="company" required />
+
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="email">Email ID:</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender" required>
+          <option value="">Select Gender</option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+          <option value="other">Other</option>
+        </select>
+
+        <label for="skills">Skills:</label>
+        <textarea id="skills" name="skills" rows="4" required></textarea>
+
+        <label for="salary">Salary Package:</label>
+        <input type="text" id="salary" name="salary" required />
+
+        <label for="jobrole">Job Role:</label>
+        <input type="text" id="jobrole" name="jobrole" required />
+
+        <label for="projects">Projects Mentioned:</label>
+        <textarea id="projects" name="projects" rows="3" required></textarea>
+
+        <label for="suggestions">Suggestions for Juniors:</label>
+        <textarea id="suggestions" name="suggestions" rows="4" required></textarea>
+
+        <div class="buttons">
+          <button type="submit" class="submit-button">Submit</button>
+          <button type="button" class="home-button" onclick="window.location.href='/home'">Home</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

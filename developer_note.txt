@@ -1,0 +1,42 @@
+Developer Note: Placement Diaries - Skill-Based Job Role and Company Prediction System
+
+
+This Placement Diaries project is a skill-based job role and company prediction system aimed at helping students predict suitable job roles based on their skills. It uses machine learning models along with a rule-based system to improve prediction accuracy for skills that may not be well represented in the training dataset. Below is an overview of the project components, architecture, and specific code aspects designed to guide developers in understanding and further enhancing the application.
+
+Project Structure
+Frontend: The user interface is built using HTML templates rendered through Flask. Key pages include:
+
+login.html: Allows user login with hardcoded credentials.
+home.html: The main dashboard for predictions.
+job_role.html, share_journey.html, view_journey.html: Forms for predicting roles, sharing journeys, and viewing others' journeys.
+Backend: Flask is used as the main framework, managing routing, session handling, and serving predictions. Key components include:
+
+app.py: The core application file, managing routes, database interaction, and ML model integration.
+Machine Learning Models: A pre-trained Random Forest model (random_forest_model.pkl) and a TF-IDF vectorizer (tfidf_vectorizer.pkl) are loaded to handle predictions.
+Database: Oracle is used for storing user submissions, with SQLAlchemy managing ORM interactions. The database schema, defined in the Journey class, contains fields like skills, jobrole, salary, etc., which track user details and prediction history.
+
+Key Functionalities and Code Details
+Role Prediction Based on Skills:
+
+The predict function in app.py is responsible for handling skill inputs, filtering out irrelevant terms (in POOR_SKILLS), and transforming the input into a format compatible with the ML model.
+Direct Mapping for Rare Skills: Given the limitations in dataset coverage, a ROLE_MAPPINGS dictionary has been implemented to assign specific job roles for skills that are not common in the dataset, such as "elixir": "Cloud Services Developer".
+Tool Recognition and Enhanced Predictions:
+
+Certain tools like "agile", "jira", "scrum" are used in specific roles. These tools are checked in IMPORTANT_TOOLS and prioritized if detected. If one of these tools is found in the skills, the system assigns a relevant job role to improve prediction accuracy.
+Model and Vectorizer Loading:
+
+The model and vectorizer are pre-trained and loaded using joblib.load. Ensure these files (random_forest_model.pkl and tfidf_vectorizer.pkl) are present in the project directory. If you retrain or adjust the model, these files should be updated.
+Database Interaction:
+
+SQLAlchemy ORM: The Journey class defines the table structure, enabling easy additions and retrievals from the database. Use db_session.add() and db_session.commit() to insert records.
+Error Handling: Database errors, such as integrity violations, are handled in share_journey using a rollback approach to maintain transaction integrity.
+Session Management:
+
+User Authentication: Basic session-based authentication is implemented with hardcoded credentials (USERNAME and PASSWORD in app.py). For production, consider integrating a secure authentication method.
+Prediction Caching: Predictions are temporarily stored in session data to display on results pages without recalculating.
+Considerations and Future Enhancements
+Model Improvements: If new data is collected, retraining the model to improve job role predictions would reduce the dependency on the manually set ROLE_MAPPINGS.
+Role Expansion: Expand ROLE_MAPPINGS with additional roles and skills for broader prediction capabilities, especially as more diverse skill sets are recorded.
+Error Logging: Consider adding a robust logging mechanism for tracking errors or prediction mismatches.
+Frontend Enhancements: Enhance the UI for a better user experience and possibly add AJAX for real-time predictions without page reloads.
+This setup should give you a clear foundation to extend, modify, or debug the Placement Diaries system as necessary. Ensure to review the POOR_SKILLS, IMPORTANT_TOOLS, and ROLE_MAPPINGS lists in app.py to align skill-based predictions with evolving job market requirements.

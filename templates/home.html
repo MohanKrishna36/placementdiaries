@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            width: 400px;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            border-radius: 8px;
+        }
+        h2 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .logout-link {
+            display: block;
+            margin-top: 30px;
+            padding: 10px;
+            color: #fff;
+            background-color: #f44336;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .logout-link:hover {
+            background-color: #d32f2f;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Welcome to Placement Diaries</h2>
+        <p>
+            Placement Diaries is a platform dedicated to empowering students by providing valuable insights into placement journeys 
+            and career paths. Share your unique experiences, learn from the journeys of others, and build a network of resources 
+            that enhances your career readiness.
+        </p>
+        <div class="buttons">
+            <button onclick="window.location.href='/share'">Share Your Journey</button>
+            <button onclick="window.location.href='/upload_skills'">Upload Skills</button>
+            <button onclick="window.location.href='/view_others'">View Others' Journey</button>
+        </div>
+        <a href="/logout" class="logout-link">Logout</a>
+    </div>
+</body>
+</html>

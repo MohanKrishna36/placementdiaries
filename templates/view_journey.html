@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>View Others' Journeys</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+        padding: 20px;
+        background-color: #f0f0f0;
+      }
+      .container {
+        max-width: 800px;
+        width: 100%;
+        background-color: #ffffff;
+        padding: 20px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+      }
+      h2 {
+        color: #333;
+        text-align: center;
+        margin-top: 0;
+      }
+      .journey {
+        border: 1px solid #ddd;
+        padding: 15px;
+        border-radius: 5px;
+        margin-bottom: 15px;
+        background-color: #f8f9fa;
+      }
+      .journey h3 {
+        color: #007bff;
+        margin: 0;
+      }
+      .journey p {
+        margin: 5px 0;
+        color: #555;
+      }
+      .buttons {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+      }
+      .home-button {
+        background-color: #6c757d;
+        color: #fff;
+        padding: 10px 20px;
+        font-size: 14px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+      }
+      .home-button:hover {
+        background-color: #5a6268;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>View Others' Journeys</h2>
+      {% for journey in journeys %}
+      <div class="journey">
+        <h3>{{ journey.name }}'s Journey at {{ journey.company }}</h3>
+        <p><strong>Year of Placement:</strong> {{ journey.year }}</p>
+        <p><strong>Job Role:</strong> {{ journey.jobrole }}</p>
+        <p><strong>Skills:</strong> {{ journey.skills }}</p>
+        <p><strong>Salary Package:</strong> {{ journey.salary }}</p>
+        <p><strong>Projects:</strong> {{ journey.projects }}</p>
+        <p><strong>Suggestions for Juniors:</strong> {{ journey.suggestions }}</p>
+      </div>
+      {% endfor %}
+      
+      <div class="buttons">
+        <a href="/home" class="home-button">Home</a>
+      </div>
+    </div>
+  </body>
+</html>
